@@ -1,0 +1,36 @@
+<Post>
+  <author>TracingWoodgrains</author>
+  <date>2019-11-11T16:14:59Z</date>
+  <link>/r/TheMotte/comments/dunpwo/culture_war_roundup_for_the_week_of_november_11/f78a1ep/</link>
+  <title>Testing Apitude</title>
+  <body>
+    <div class="md">
+      <p>So, on training. I mentioned this <a href="https://old.reddit.com/r/slatestarcodex/comments/dtz2za/looking_for_references_that_compare_average_iqs/f71k48t/">on r/ssc the other day</a> about the LSAT, and I'll mention it again here:</p>
+      <p>Every test can be trained for. Every single test. Every <em>skill</em> can be trained for, in a narrow sense. People can even <a href="https://www.nature.com/articles/srep00278">train their eyes to slow nearsightedness as they age</a>, train their <a href="http://www.cs.cmu.edu/%7Edccrow/gradcore/core.assignment.html">digit span memory</a>, train <a href="http://deutsch.ucsd.edu/psychology/pages.php?i=215">absolute pitch</a>. <em>Everything</em> is trainable.</p>
+      <p>That doesn't make tests useless for measuring aptitude, not in the slightest.</p>
+      <p>Four reasons for this: </p>
+      <p>First, everyone has an established baseline in just about every dimension. For example, for short-term memory relevant for things like digit span, the typical human baseline is <a href="https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two">7 units, plus or minus 2</a>. Tigers have a higher baseline for strength than housecats. Some people have naturally sharp vision, some people are nearsighted. Notice how a surprising number of top athletes in one sport can <a href="https://bleacherreport.com/articles/76583-the-10-greatest-multi-sport-athletes-of-all-time">excel in another as well</a>. A lot of that has to do with a generally high athletic baseline.</p>
+      <p>Second, <a href="https://en.wikipedia.org/wiki/G_factor_(psychometrics">every intellectual skill shows striking positive correlations</a>). Someone who is good at reading will likely be good at math and vice versa. Apply this to every mental skill you can imagine. The correlations aren't perfect, but they're all present and well-established.</p>
+      <p>Third, skill training affects only a very narrow field. That digit span training I mentioned above? When the guy who trained his digit span up to 80+ digits went right back to 7 +/- 2 as soon as you switched it to alphabetic characters. Transfer is extraordinarily limited and extraordinarily specific.</p>
+      <p>Fourth, training faces incredible diminishing returns. The first few hours of training any skill provide the most rapid improvement, and later it becomes harder and harder to make increasingly small changes. You see examples of this, among other things, in video game speedrun world records: At first, you get huge leaps and bounds as low-hanging fruit is stripped, and eventually <a href="https://i.redd.it/luvk498g6zy11.png">hundreds of people are competing over milliseconds</a>, taking tens of thousands of attempts to move the dial a tiny bit. A useful observation here is that, in a league like the NBA, scouts prefer freshmen, or tall players with relatively little training, over seniors. They have more room to grow, and further to go before diminishing returns really hit.</p>
+      <p>What does that mean if your goal is to test aptitude? We'll stick with general intellectual ability, to start with. You have a few options:</p>
+      <ol>
+        <li>
+          <p>Test a broad range of skills. Areas where someone has taken the time to train will be balanced out by ones where they haven't. Well-known IQ tests such as the Woodcock-Johnson (heh) and the Stanford-Binet take this approach.</p>
+        </li>
+        <li>
+          <p>Test obscure skills that people haven't trained specifically for, so that every taker is equally ignorant. Raven's cognitive matrices is a good example of this approach.</p>
+        </li>
+        <li>
+          <p>Test things that rely on knowledge and skills every taker has received approximate equal training on. The SAT and ACT rely on this, focusing on things common to the K12 curriculum and providing extensive free test prep. The LSAT does as well, in an intensely competitive environment where each point matters and people are highly incentivized to train effectively.</p>
+        </li>
+      </ol>
+      <p>In the third condition specifically, you'd think that training would correlate incredibly highly with performance on the test, but it doesn't really. It's pretty well known that you can only expect maybe a 100-point gain through thorough preparation for the SAT, and I wouldn't count on more than a 10-point gain or so in the LSAT. <a href="https://www.lsac.org/sites/default/files/legacy/docs/default-source/data-%28lsac-resources%29-docs/lsat-score-distribution.pdf">The LSAT score distribution</a> remains as a bell curve post-training. </p>
+      <p>There's pretty obviously something happening between all of these, as well. Anyone can get a basic idea of their standing in a few minutes. Take <a href="https://www.pewresearch.org/science/2015/09/10/what-the-public-knows-and-does-not-know-about-science/">this eleven-question quiz of basic scientific understanding</a> and/or the <a href="https://wonderlictestsample.com/">Wonderlic sample test</a>. Incredibly fast and not perfectly precise, but they display exactly the same demographic trends you could predict from any other test, and I'd be happy to loosely predict your SAT, ACT, LSAT, ASVAB, or related scores from either of them. If you have a bit more time on your hands, Khan Academy has free practice/diagnostic tests for the SAT and LSAT, and you could get a solid estimate from either of those as well. Typically speaking, it wouldn't be all that different from your Wonderlic, despite each one asking entirely different things. </p>
+      <p>Can a motivated party increase their score on any one of these? Yeah, absolutely. If they really, really wanted, they could find similar question sets to just about every test and train to the point of diminishing returns in everything. But the second they shifted to a skill they hadn't trained specifically, they'd return to baseline. </p>
+      <p>Every skill is trainable, but that doesn't mean baselines are irrelevant or unknowable. </p>
+      <p>
+        <a href="http://emilkirkegaard.dk/en/wp-content/uploads/Bias-in-Mental-Testing-Arthur-R.-Jensen.pdf">Bias in Mental Testing</a> is a great resource for anyone interested in diving into some of these questions deeper, though it's a bit long/dense.</p>
+    </div>
+  </body>
+</Post>
