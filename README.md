@@ -7,7 +7,7 @@ Would you like to help review and edit [vault](https://www.vault.themotte.org/) 
 Here's the first prototype instructions, let me know if anything is unclear.
 
 * Fork this repo, then clone your fork using Git.
-* Go to the Issues page. Leave a comment on a post block saying that you're handling it (so nobody else grabs it.)
+* Go to the [Issues](https://github.com/themotte/vault_review/issues) page. Leave a comment on a post block saying that you're handling it (so nobody else grabs it.)
 * Look over the entries in the numbered post block and edit them as per the instructions near the end.
 * Check in your work, push it, and send a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 * Repeat as you have time!
