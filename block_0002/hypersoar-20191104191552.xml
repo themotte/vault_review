@@ -1,0 +1,36 @@
+<post>
+  <author>hypersoar</author>
+  <date>2019-11-04T19:15:52Z</date>
+  <link>/r/TheMotte/comments/drd1uu/culture_war_roundup_for_the_week_of_november_04/f6jhuxt/</link>
+  <title>On Indicting a President</title>
+  <body>
+    <div class="md">
+      <p>tl,dr: All government officials up to VP can be indicted, no question. Nobody has ever tried to indict a president, and nobody knows how the Supreme Court would rule if they did.</p>
+      <p>The first important point is that an "impeachable offense" is anything Congress thinks is an impeachable offense. The Constitution uses the phrase "high crimes and misdemeanors", but there's no consensus on what that means. In <a href="https://en.wikipedia.org/wiki/Nixon_v._United_States">Nixon v. US</a> (As in <em>Judge</em> Nixon, and not to be confused with <a href="https://en.wikipedia.org/wiki/United_States_v._Nixon">US v. Nixon</a>, which <em>was</em> about President Nixon), the Supreme Court ruled that they don't have any authority over impeachments. So, theoretically, the Senate could vote to convict immediately upon referral from the House with no trial at all, and the courts would do nothing about it. The Supreme Court could change their mind, but they try not to do that, in general. </p>
+      <blockquote>
+        <p>You can't indict a sitting government official, but you can impeach them</p>
+      </blockquote>
+      <p>This is mostly wrong. In general, government officials can be, and are, indicted. Nixon's vice president, Spiro Agnew, was very very close to being indicted. He escaped by making a deal to plead guilty to a lesser charge and resign. Impeachment is <em>Congress</em>'s remedy if they want an appointed or elected official forced out of office. </p>
+      <p>The contention now is over the President himself. <strong>Right now, there is no law that says the President can't be indicted</strong>. What there are are untested legal arguments going both ways. If the President were indicted, it would be challenged in court and appealed more or less immediately to the Supreme Court, who would decide the matter. But, right now, no Federal indictment is going to come out against Donald Trump, because the office that would do so is under his authority. </p>
+      <p>Trump's Justice Department has codified their belief that Trump can't be indicted into a policy memo. It's the third version of that memo. The first two were written during the administrations of Nixon and Clinton, or, the other two presidents who faced a threat of a criminal indictment. So the policy should be taken as simply the president's <em>own lawyers</em> arguing that he can't be charged with a crime.</p>
+      <p>The Justice Department's policy, however, doesn't bind the state governments. The state of New York (Trump's official residence until a few days ago) has an ongoing criminal investigation over possible state crimes. There's nothing stopping them from issuing an indictment, after which a similar legal fight to the federal case would make its way up the courts. </p>
+      <p>None of this prevents him from being indicted <em>after</em> he leaves office. Even if he's pardoned for federal crimes, which there's a strong argument he could do himself, he'd still be on the hook for state crimes. If he isn't, there's an argument to be made to the courts that the statute of limitations should be "tolled", or paused, while he's in office.</p>
+      <p>So, in summary, Trump <em>could</em> be indicted. But he won't face a federal department since it would have to come from his own subordinates. The remedy for this apparent conflict is supposed to be impeachment and removal from office, which can happen based on whatever Congress wants. But it's unlikely for Trump, who would need 20 of the 53 of Senate republicans to vote against him, and, so far, <em>none</em> of them look like they will.</p>
+      <blockquote>
+        <p>Is obstruction of justice, which I think he's been found almost certainly guilty of, enough for being impeached</p>
+      </blockquote>
+      <p>I've already covered the impeachable part, but one of the articles he's facing is obstruction of <em>Congress</em>, which is one the articles both Nixon and Clinton faced. Congress has issued subpoenas for documents and testimony, and the White House has basically told told them to fuck off. It's about a clear-cut a case of obstruction in the colloquial sense as one could think of. But, unlike with the crime of Obstruction of Justice covered in the Mueller Report, there's no statute at play. My guess is that the Trump administration has made the political calculation to eat the obstruction article rather than turn over what are probably some pretty damning documents.</p>
+      <p>And now, injecting some of my own opinions: </p>
+      <p>I'll note that there are <em>really good reasons</em> to have Obstruction of Justice, as a general concept, be a crime. If not, then you incentivize people to hide and destroy as much evidence as they can to avoid prosecution. If you want an explanation of the specific federal laws around this, the <a href="https://www.justice.gov/storage/report.pdf">Mueller Report</a> has a very good and concise explanation on page 9 of Part II (p. 221 of the pdf). </p>
+      <p>Republicans are arguing that the House's investigative process is unfair, but these arguments are mostly nonsense: </p>
+      <ul>
+        <li>Right now, this is an investigation and not a trial. Investigations happen in secret <em>all the time</em>.</li>
+        <li>The analogy to the US criminal justice system to what's happening right now is to grand jury proceedings, not a trial. The defendant has no right to appear before, or even know about, the grand jury. Witnesses before them don't get to bring a lawyer (but still have protections against incriminating themselves). </li>
+        <li>Slightly less than half of the people allowed into the closed hearings are Republicans, and they're just as free to question the witnesses for just as long as the Democrats.</li>
+        <li>The trial part, where Trump will get all of his rights (in the colloquial sense), will happen in the Senate, which is controlled by his own party. There's little risk of his having an unfair hearing there.</li>
+      </ul>
+      <p>Finally, I think that most of the Republicans making these arguments in bad faith. The GOP, in general, has been in favor of <em>limiting</em> due process rights. They've been broadly in favor of mass incarceration (along with Democrats, to be fair, but they push it harder). Right-wing judges have ruled generally in favor of expansive law enforcement powers. Clearance Thomas, a conservative Supreme Court justice, recently wrote that he believes the decision allowing for court-appointed lawyers for people who can't afford one was <em>wrong</em>[1]. But now, <em>suddenly</em>, <em>coincidentally</em>, they're super duper interested in due process when it comes to Trump.</p>
+      <p>[1] See Thomas's dissent in <a href="https://www.supremecourt.gov/opinions/18pdf/17-1026_2c83.pdf">Garza v. Idaho</a>, p. 14</p>
+    </div>
+  </body>
+</post>
