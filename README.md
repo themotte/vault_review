@@ -28,6 +28,8 @@ If the post includes an existing but insufficient &lt;blockquote&gt;, move it ou
 
 Examples of much of this can be found in the [example_before](https://github.com/themotte/vault_review/tree/master/example_before) and [example_after](https://github.com/themotte/vault_review/tree/master/example_after) directories. Title editing is shown in ymeskhout's post, &lt;context&gt; is added in Amadanb's, ymeskhout's, and ZorbaTHut's posts, with an existing blockquote hoisted from &lt;body&gt; to &lt;context&gt; in ZorbaTHut's example.
 
+If the post was deleted by the user while leaving their account active, make a `deleted` subdirectory in the block subdirectory, and move it in there. If the user deleted their account only, or deleted their account and all posts, then (1) do the edit thing, and (2) make an `anonymized` directory in the block subdirectory and move it in there. (The codebase doesn't support anonymous entries yet, so I'll just shove them off in a corner of the database until I've got that implemented.)
+
 If you're not entirely sure what to do with a post, do it anyway. Everything submitted will be reviewed by me; I'd rather have your best guess at the right solution than anything else. If you *really* don't know what to do with it, move it into a folder named REVIEW_ME and I'll handle it.
 
 Finally, don't feel like you have to edit a post! Sometimes they're fine as-is.
