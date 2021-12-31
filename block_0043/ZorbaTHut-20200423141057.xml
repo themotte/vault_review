@@ -1,0 +1,36 @@
+<post>
+  <author>ZorbaTHut</author>
+  <date>2020-04-23T14:10:57Z</date>
+  <link>/r/TheMotte/comments/g4mse5/culture_war_roundup_for_the_week_of_april_20_2020/foaqvmi/</link>
+  <title>Redefining Roguelikes</title>
+  <body>
+    <div class="md">
+      <p>The Berlin Interpretation is dumb and its proponents should feel dumb.</p>
+      <p>If the first-person genre were defined using a Berlin-Interpretation-esque system, it'd require that any first-person shooter have <a href="https://i.imgur.com/0lCkBrL.png">a little head in the center bottom of the screen that reacts to gunfire</a>. It's <em>so</em> restrictive that it's meaningless.</p>
+      <p>The tricky part with the game genres is that games, IMO more than any other medium, are composed of a lot of component parts. I'm going to use movies as an example, because movies are simpler; movies are composed out of Setting and Tone. So for example, you can have a Science-Fiction Romance movie, or a Fantasy Action movie, or a Dystopian Comedy. For various historical reasons people try to pretend there's a single set of genres, so you end up with "Science Fiction" being put in a single category and with Blade Runner 2049 awkwardly sandwiched between Galaxy Quest and Edge of Tomorrow - yes they're all science fiction, no they are not all the same genre - but if you wanted to do movie genres <em>right</em>, you'd need at least two major axes.</p>
+      <p>Games, though, have more than that. By my reckoning, the big axes are:</p>
+      <ul>
+        <li>Setting</li>
+        <li>Presentation</li>
+        <li>Inner game loop</li>
+        <li>Outer game loop</li>
+      </ul>
+      <p>Setting is "Science Fiction, Fantasy". Presentation is "First-Person, Third-Person, Sidescroller", etc. The other two may take a little explanation.</p>
+      <p>Inner Game Loop is what you're doing second-to-second. Bayonetta is a brawler, Doom is a shooter, X-COM is tactical. It's the thing that engages your twitch reflexes or your immediate brain and the thing you spend most of the game working on.</p>
+      <p>Outer Game Loop is your overall strategy. It's the thing you strive for and the thing you strategize about. This is where Metroidvanias live; a Metroidvania a game where you explore a world and find upgrades that unlock more areas of the world to explore. That process, "explore -&gt; find stuff -&gt; more explore", is an outer game loop. It's strapped onto <em>traditionally</em> an action sidescroller, but there's nothing preventing you from slapping it on a first-person action game and ending up with Metroid Prime. Hell, there's probably ways to put it on a thing that isn't even an action game! I can't think of any offhand but it's certainly <em>possible</em>.</p>
+      <p>Other good examples of an outer game loop are the 4X "eXplore, eXpand, eXploit, and eXterminate" loop that you see in Civilization-style games, where you're trying to grow big and use your bigness to grow bigger, and the very-conventional "continue the plot" loop where fundamentally everything you do is in service of getting to the next area and the next cutscene.</p>
+      <p>The problem with the Berlin Interpretation is that it specifies <em>all</em> of these. A Roguelike, as far as they're concerned, <em>must</em> be a dungeon crawler in a top-down perspective with turn-based combat and The Roguelike Thing, which I'm going to describe in a second. And that's just nuts. Not all first-person shooters need to occur inside a science-fiction base, not all sidescrollers need to take place in a weird acid-trip mushroom land, not all strategy games need to chronicle the development of civilization.</p>
+      <p>So tl;dr Berlin Interpretation is dumb.</p>
+      <hr />
+      <p>The core of a roguelike, in my opinion, is this:</p>
+      <p>A roguelike is a game where the player confronts semi-predictable challenges with a semi-predictable and semi-controllable toolkit.</p>
+      <p>This is the core of a roguelike; not knowing what's around the next corner and having to prepare for it anyway. Not being able to simply choose what gear and equipment you have, but having to deal with whatever the RNG hands you. Being able to say things like "okay, I <em>probably</em> have to deal with the Ice King, so let's see if I can find the Chasm of Cold and get the ice gear", and the Chasm of Cold spawns (yay!) but randomly rolls bad ice gear (uhoh) and then you have to scramble for a better strategy to deal with the Ice King (who, unfortunately for you, <em>did</em> spawn.)</p>
+      <p>All of those "semi-"'s are critical parts of the roguelike formula. You're not completely at the whim of the RNG, you can strive to solve problems, but you're not completely under your own power, it's always a bit random what happens. Arguably Diablo delves into roguelike territory; the bosses aren't random, but the spawns are. (Late-game Diablo is so minor on this front that it's irrelevant, though.)</p>
+      <p>So, Binding of Isaac is a roguelike. Random drops, random monsters. The fact that it's an action game doesn't matter. Rimworld is a roguelike, to some extent; you have to deal with random colonists and random threats. The fact that it's a basebuilder doesn't matter. (It's not a very deep roguelike; the threats aren't very diverse and the colonists can be cherrypicked way too much.) Dungeon Crawl Stone Soup is <em>definitely</em> a roguelike, you never know which random monsters will show up or what gear you'll get, and sometimes you'll get boned by a super-tough unique monster showing up in a bottleneck in Swamps 1 and you'll have to do things out of order. And yes, Crypt of the Necrodancer is a roguelike and Streets of Rogue is a roguelike.</p>
+      <p>One complicating factor here is that some of these games have an <em>extra-outer loop</em>, where you play games in order to unlock new things that you can use in future games. I personally consider this to be more kin to a tutorial system than to a major gameplay mechanic; the Real Game starts when the tutorial is done and everything is unlocked. But I think there's an argument that games which allow infinite power-up upgrades for future games are, in fact, not roguelikes, because the end state on those is that you're so strong that you kinda can't lose.</p>
+      <p>I don't think there actually are any games of that sort, though.</p>
+      <p>I think the problem with the term "Roguelite" is that it's just dismissive. It's like calling them "child's Rogue games". I think that Binding of Isaac is arguably <em>a better roguelike than Rogue</em> - there's more random, there's more decisions, there's more depth. I even think it may be a better roguelike than Nethack, whose endgame builds are all basically carbon copies of each other.</p>
+      <p>Maybe we need a new term for this, and I don't know what that term is, but "Roguelite" is just terrible.</p>
+    </div>
+  </body>
+</post>

@@ -1,0 +1,16 @@
+<post>
+  <author>ZorbaTHut</author>
+  <date>2021-03-05T01:33:06Z</date>
+  <link>/r/TheMotte/comments/lv2rb7/culture_war_roundup_for_the_week_of_march_01_2021/gpq2qt7/</link>
+  <title>The concept of "race" looks a lot like the results of a clustering algorithm</title>
+  <body>
+    <div class="md">
+      <p>This always reminds me of an experiment I did a while back. I was working at Google at the time, during what was in retrospect the (still rather anemic) peak of English Orkut, and I convinced the Orkut developers to give me an anonymized dump of interests by user. I took this and massaged the data a bit, then fed it into a clustering algorithm, on the assumption that I might get usefully correlated interests in a way that could be used to find dates.</p>
+      <p>It worked <em>gloriously</em>, finding a bunch of interest clusters that seemed really intuitive and ones that I never would have thought of. For example, there was a cluster for sports, there was a cluster for space operas, there was a cluster for programming language . . . then there was a cluster for <em>misspelled</em> sports, and a cluster that I jokingly referred to as the My Interests group ("my pets", "my friends", "my dog", "my family"), and a cluster that included every single Kevin Smith movie.</p>
+      <p>(Also, there were a bunch of stock questions, like "favorite TV series", but I didn't have these distinguished in any way; the end result was that the "programming language" cluster, in addition to a bunch of programming languages, included "tv sucks".)</p>
+      <p>The point, though, is that nobody is ever going to claim that something as vague as "human interests" has hard lines (assume we have a cluster that includes "baseball", "football", and "basketball". Do we put "rugby" into it? Is our first cluster "sports", or "American sports"? If it's the latter, do we need a cluster for "non-American sports"? If so, which category do hockey and curling go in? And all of this completely ignores the ambiguity in "football" . . .), and yet a relatively simple algorithm was able to chop up an interests database into a bunch of categories that <em>intuitively felt right</em>, that felt like something an actual human could have generated with input data, and that probably bore more than a passing resemblance to human decisions.</p>
+      <p>So, sure, there's no hard biological lines for "race" . . . but I'm willing to be that if we sequenced everyone's genome, and fed that into a big clustering algorithm, we'd get output that had a pretty serious resemblance to culturally-identified races.</p>
+      <p>Though definitely not a perfect match.</p>
+    </div>
+  </body>
+</post>

@@ -1,0 +1,24 @@
+<post>
+  <author>ChrisPrattAlphaRaptr</author>
+  <date>2021-03-18T19:24:34Z</date>
+  <link>/r/TheMotte/comments/m5eawi/culture_war_roundup_for_the_week_of_march_15_2021/greccg5/</link>
+  <title>The risks and uncertainties that persist around COVID vaccination and future viral mutations</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>Is the Covid vaccine going to be an ongoing thing? I've heard takes that amount to multiple strains will make this something akin to the flu shot, but have no concept of how grounded those theories are.</p>
+      </blockquote>
+      <p>We don't know yet, and anybody who tells you differently is speculating. We can draw parallels to other viruses, but there are a lot of unknowns that will determine what ultimately happens: How rapidly people get vaccinated, how quickly the virus mutates, how much wiggle room there is for the virus to mutate it's receptor binding domain (RBD) to change serotypes while maintaining/enhancing it's affinity for it's receptor, etc. There's also a few lower probability possibilities like immunity from the vaccine being short term or a viral strain emerging that is more contagious but much less pathogenic, a la seasonal coronaviruses.</p>
+      <p>There are multiple strains that have already emerged, one of which is particularly concerning as our current vaccines are less effective (by some indeterminate amount) at protecting people from infection by it. Low vaccine uptake in the population optimizes for the emergence of new vaccine-resistant strains in the population.</p>
+      <p>Influenza is not a great virus to compare covid to in general because the mutation rate (what we call antigenic drift), while important, is less important than the complete swapping of serotypes (antigenic shift). When people warn of a 'really bad flu season' it's generally due to antigenic shifts to a serotype that we haven't seen for a long time and don't have pre-existing immunity to. This happens because waterfowl and swine are massive reservoirs of influenza and all the serotypes mix around before recombining and jumping back to humans. This is what people were scared of when they culled the <a href="https://www.hsi.org/news-media/1-million-mink-culled-on-dutch-fur-farms-as-covid-19-infections-spread/">mink in Europe</a>.</p>
+      <blockquote>
+        <p>I also was one of many skeptical takes that there was 'no way' a vaccine could safely be developed in this timeframe. So I suspect some of my aversion is akin to a psychological desire for "consistency"</p>
+      </blockquote>
+      <p>It's a trade-off. Enough testing was done to show that they're extremely effective and that there are no immediate short-term effects, which should account for the majority of adverse events. The main safety concern when it comes to vaccines is that the protein you use to induce antibodies shares some homology with a 'self' protein in your own body, leading to autoimmunity as your body attacks its own tissues. There was a notorious case with one of the Euro swine flu vaccines where some tiny fraction of the population developed narcolepsy due to homology with some obscure brain protein. This might sound scary, but we've developed dozens (hundreds?) of vaccines and that's the only case I can think of where this happened.  </p>
+      <blockquote>
+        <p>Anyway, if the vaccine is a once and done thing to rejoin society, I will hold off as long as I can, but take it when I eventually need to fly or go to the office or whatever.</p>
+      </blockquote>
+      <p>I'd agree with you as I share your risk profile, but I really, <em>really</em> want to minimize the odds of a vaccine resistant strain emerging. I'm not in the mood to go through the lockdowns and fights over the lockdowns again, plus at least two of my friends have relatives who have died of covid so far.</p>
+    </div>
+  </body>
+</post>

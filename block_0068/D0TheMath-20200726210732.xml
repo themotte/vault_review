@@ -1,0 +1,40 @@
+<post>
+  <author>D0TheMath</author>
+  <date>2020-07-26T21:07:32Z</date>
+  <link>/r/TheMotte/comments/hufif8/culture_war_roundup_for_the_week_of_july_20_2020/fzc81d7/</link>
+  <title>Calculatons on Gun Accidents vs Car Accidents</title>
+  <body>
+    <div class="md">
+      <p>Looking at Wikipedia's <a href="https://en.wikipedia.org/wiki/Gun_safety">Gun safety</a> article, it seems reasonable to assume that if you follow the most basic rules of gun safety, you will not end up shooting anyone. The most basic rules as per Wikipedia are as follows:</p>
+      <blockquote>
+        <ol>
+          <li>
+            <p>Treat firearms as if they are loaded</p>
+          </li>
+          <li>
+            <p>Point the muzzle away from non-targets</p>
+          </li>
+          <li>
+            <p>Keep fingers off the trigger</p>
+          </li>
+          <li>
+            <p>Be sure of the target and of what is beyond it</p>
+          </li>
+        </ol>
+      </blockquote>
+      <p>If a firearm goes off and ends up injuring someone, one of these most basic rules were not followed. To compare these rules with the rules of the road is very misleading. In a car, following every rule matters. If you don't pay attention for even a few seconds your chances of hitting something go up astronomically. There is no (or at least very little) redundancy in road laws, and what redundancy there is often doesn't decrease chances of an accident as much as gun safety rules do because your success depends on other people. In contrast, gun rules ensure immense amounts of redundancy, so that if there is a failure point (say, you accidentally point the gun at someone), it's less likely to cause an accident (because you don't have your finger needlessly on the trigger). This doesn't mean the rules are airtight. Maybe there's still a 0.01% chance someone gets shot by someone who knows the rules and is trying to follow them, and a 5% chance someone gets shot by someone who doesn't know the rules and is trying to follow them. Then P(shot|rules) = 0.0001 and P(shot|-rules) = 0.05, and if 95% of people with guns follow the rules, then </p>
+      <p>P(-rules|shot) = P(shot|-rules)*P(-rules)/(P(shot|rules)*P(rules)+P(shot|-rules)*P(-rules))</p>
+      <p>or, </p>
+      <p>P(-rules|shot) = .05*.05/(.0001*.95+.05*.05)</p>
+      <p>So, </p>
+      <p>P(-rules|shot) = 0.9634.</p>
+      <p>In contrast, <a href="https://en.wikipedia.org/wiki/Traffic_collision#Causes">with cars</a>, </p>
+      <blockquote>
+        <p>A 1985 study by K. Rumar, using British and American crash reports as data, suggested 57% of crashes were due solely to driver factors, 27% to combined roadway and driver factors, 6% to combined vehicle and driver factors, 3% solely to roadway factors, 3% to combined roadway, driver, and vehicle factors, 2% solely to vehicle factors, and 1% to combined roadway and vehicle factors.</p>
+      </blockquote>
+      <p>So P(-rules | crash) = .93. This would probably be higher now, so let's say it gets bumped up to .98 due to cell phones. I was not expecting this result, and have changed my mind. <strong>If a someone crashes in a car it is much more likely to be due to someone not following rules than if someone gets shot with a gun.</strong> So if we call car accidents accidents, then we should do the same for gun accidents, and if we say gun accidents are due to negligence, then we should do the same for car accidents. I was prepared to call gun negligence negligence even with my estimated P(-rules|shot) = 96.34%, so if I'm being consistent I should now do the same for car negligence.</p>
+      <p>Edit: If anyone has any more exact numbers for causes of unintended gun injuries, I'd be happy to have them.</p>
+      <p>Edit 2: This is just a discussion of semantics, but regardless of what you call negligence or accidents, there's still a 96.34% chance that the person who shot the 3 people wasn't following proper gun safety rules, so at least on this point, the argument is valid. Whether this incident can be used to generalize to all protesters at the event, and what the contrast between BLM protesters' use of weapons and right-wing protesters' use of weapons tells us is a discussion for another day.</p>
+    </div>
+  </body>
+</post>

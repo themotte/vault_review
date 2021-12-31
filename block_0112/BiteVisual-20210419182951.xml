@@ -1,0 +1,16 @@
+<post>
+  <author>BiteVisual</author>
+  <date>2021-04-19T18:29:51Z</date>
+  <link>/r/TheMotte/comments/mtuhyd/culture_war_roundup_for_the_week_of_april_19_2021/gv40j3q/</link>
+  <title>A brief evaluation of numerous crypto "platforms" or "layers."</title>
+  <body>
+    <div class="md">
+      <p>I invest in what I view as platforms or layers.</p>
+      <p>BTC is, and likely will be until something breaks SHA256, the most secure ledger by a huge gulf. Trying to do a 51% attack on a network that has participants literally buying out powerplants is something that even large nationstates are becoming increasingly incapable of. As a locus of attraction for the entire movement, the ledger will likely be 'forked' should anything happen to break the current equilibrium, and a new winning protocol will have it plugged in. This is the 'base layer' value platform. It's not cheap to transact in, but the security and scarcity does have the network resemble digital gold, as the cliche goes.</p>
+      <p>Ethereum is the 'application' layer. BTC is solely addresses and values, Eth has a virtual machine. Using the same root tech, instead of verifying transactions alone, eth nodes verify that programs are carried out faithfully. This allows what are deemed 'smart contracts' that can autonomously carry out data movements, like transactions. For examples, people have made a loan platform (AAVE), a betting platform (Augur), a market with no arbiter (Uniswap), certificates of ownership (NFTs), tokens pegged to off-chain assets (Synthetix).</p>
+      <p>Those two platforms are established, safe-as-crypto-itself bets.</p>
+      <p>What I invest in otherwise are projects that extend these platforms or create new ones. Rather than state which I am invested in I will give examples of varying quality. Kleros allows you to inject third party subjective judgement into smart contract logic, useful for cases that cannot be determined through dry code. Chainlink is attempting to set up a network of third-party data providers that are incentived against bribery and bad transmission. Bao is attempting to set up a platform for assets pegged to real-world data (did population of city X grow or shrink, rainfall in region Y, this index fund behave more or less volatile than before). RSR is attempting to set up a token pegged to the USD through on-chain asset backing and governance (normally stablecoins are formed by trusted third parties agreeing to redeem them for the promised value. Like banks and goldnotes.)</p>
+      <p>There are many many many more unmentioned. This space is incredibly innovative and coming up all the time with financial products that have no legacy equivalent. Including things that you might not see as a financial product, such as social networks (Twetch; it's awful but trying).</p>
+    </div>
+  </body>
+</post>

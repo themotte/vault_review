@@ -1,0 +1,32 @@
+<post>
+  <author>ZorbaTHut</author>
+  <date>2020-01-09T19:49:36Z</date>
+  <link>/r/TheMotte/comments/ekpcmb/culture_war_roundup_for_the_week_of_january_06/fdo5qws/</link>
+  <title>Perfecting Market Exploitation in MMO Economies</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>What useful insights would we get from this?</p>
+      </blockquote>
+      <p>A while back I started tinkering with tools that analyzed video game MMO economies.</p>
+      <p>Bear with me, I'm going somewhere with this.</p>
+      <p>Virtually all MMO economies contain crafting systems, and while there's a lot of variation in crafting systems, <em>most</em> of them provide you with a finite list of recipes. You feed in a certain number of specific items, you get a predictable item out. Most MMO economies also include a market of some kind, where you can buy things and sell things, and see pricing data of some kind.</p>
+      <p>And so I said, alright, let's apply some data analysis to this. I'm gonna read all the recipes, see how much the input costs, see how much I get from the output, and find the highest profit margin, and that's gonna be profitable and I'll make a bunch of money ingame. So I did that and got <em>absolute fucking straight-up garbage</em>.</p>
+      <p>Because it turns out that, in my game of choice, there are a bunch of items that sell for dirt-cheap and that nobody really wants, but whose components are <em>even cheaper</em>. Like, if you had to ability to smelt small pebbles into gemstones worth half a buck, but also, it would take you like a day to find someone who wanted to buy each gemstone pebble, and nobody ever wanted to buy two.</p>
+      <p>So I fixed that and started factoring in sell quantity. Then I got more garbage because there were things that you could sell a lot of with a really great profit margin but still not actually get much money.</p>
+      <p>So I fixed that and started measuring profit per action instead of maximizing profit margin. Then I got more garbage because it started recommending ultra-expensive recipes that, percentage-wise, barely make money, and given how volatile the market was, I didn't trust I could actually get a profit on them reliably.</p>
+      <p>So I fixed <em>that</em> and started taking both profit margin and sell volume into account. Then I got more garbage because sometimes someone would put single items up for cheap, and my code didn't recognize that just because you could buy <em>one</em> item for cheap didn't mean you could buy <em>an infinite quantity of items</em> for cheap.</p>
+      <p>So I fixed <em>that</em> and got more garbage, I forget why, but I fixed it. Then I realized I'd forgotten some important abilities that changed the inputs of recipes in subtle ways so I fixed that. Then I realized I was handling some random item variations the wrong way so I fixed <em>that</em>. Then something weird happened to the market and it started spitting out garbage prices (and deriving all of its predictions from pricing) and so I fixed that. Blah, blah, blah, this went on for like <em>weeks</em> (and, according to Github, almost 250 individual sourcecode commits.)</p>
+      <p>Right now, my tool works like this:</p>
+      <p>I log on and tell it to find me money. It lists a bunch of recipes that I can reliably and easily make money on. I craft them, put them on the market, and make an absolute shitload of money.</p>
+      <p>There is absolutely no way I could have built this tool in a vacuum. Some of the things I had to deal with I probably could've thought of; many, I couldn't. Sometimes I had to sit there and look at numbers that just <em>felt</em> wrong to realize what I had to change, and I couldn't do that without the numbers. I'm on my third major iteration of the profit-margin adjustment formula and I still don't like how it works, but it works well enough so I'm sticking with it for now.</p>
+      <p>But I had to start building it in order to know how to build it, and there's a lot of game economics information I was able to figure out only by virtue of having a half-finished tool to inspect things with.</p>
+      <blockquote>
+        <p>What useful insights would we get from this?</p>
+      </blockquote>
+      <p>I have no bloody clue. I'll be able to tell you once we've gotten them.</p>
+      <p>But I feel <em>quite</em> confident that we'll find <em>something</em>. Knowledge never hurts; if it turns out that there are systematic predictable economic mistakes that low-IQ people make, for example, then maybe we can prevent them or compensate for them or at least use that information to explain other weird inefficiencies in the economy that we don't even recognize the existence of right now.</p>
+      <p>This is the economics version of theoretical research. You look at a big complicated thing and try to analyze it and understand it. Not because you know what you'll get from that understanding, but <em>specifically because you don't.</em></p>
+    </div>
+  </body>
+</post>

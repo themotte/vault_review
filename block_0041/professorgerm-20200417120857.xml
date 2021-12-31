@@ -1,0 +1,17 @@
+<post>
+  <author>professorgerm</author>
+  <date>2020-04-17T12:08:57Z</date>
+  <link>/r/TheMotte/comments/g14usp/coronavirus_quarantine_thread_week_6/fnohnzs/</link>
+  <title>The Dangers and Tradeoffs of Remdesivir</title>
+  <body>
+    <div class="md">
+      <p>Note: am biologist, but drug development is not my speciality, and it’s been a while since I studied polymerases in depth. Take this with a big ole grain of salt. </p>
+      <p>Following some links from the <a href="https://en.m.wikipedia.org/wiki/Remdesivir">Wikipedia article</a>, you can get to some interesting publicly-available research. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5844999/#!po=0.476190">This one</a> covers remdesivir and COVID specifically, and then link-jumping got me to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3499576/?report=reader">this side effect paper</a>.</p>
+      <p>So, if memory serves and I’m understanding correctly: </p>
+      <p>remdesivir is a nucleoside analogue, that mucks up the polymerase and causes early termination (total speculation at the mechanism since the papers say unknown: it’s close enough to incorporate but then blocks further additions, and the polymerase stops, rejects that replication, has to start over and does the same thing, eventually accumulating all these failed attempts and running out). It appears that it preferentially or perhaps only interferes with RNA-dependent RNA polymerase, which humans don’t have (we do DNA to RNA but no direct RNA to RNA replication... <a href="https://www.nature.com/articles/nature09190">sort of?</a>). </p>
+      <p>However! We’re not just human cells, and even our human cells aren’t totally human. Our gut bacteria sometimes have RNA viruses (It looks like a common side effect to many analogues, not sure about remdesivir specifically, is nausea and vomiting, I suspect this is why). More importantly, some analogues have serious mitochondrial effects. The side effect paper says an adenosine analogue was rejected for undisclosed reasons (I mention this because remdesivir is an adenosine analogue), and then talks about cytosine and guanosine analogues rejected for HCV treatment due to liver damage. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1744319/">Mitochondrial toxicity has long been a problem in HIV treatment</a>, so you would expect some similar effects in other RNA virus treatments.  </p>
+      <p>There’s several possibilities here. Perhaps remdesivir is more specific/improved in some way that it doesn’t cause these side effects (HIV treatments have gotten better over time, though they’re far from ideal). Maybe we just won’t be able to use it on people with pre-existing liver damage, and for others the damage can be mitigated. It’s also likely I’ve missed many important papers; I'm on mobile, can’t access a lot of papers, and haven’t been immersed in this literature. </p>
+      <p>TLDR: stupid in the sense it might cause weird mutations to their somatic cells or bizarre RNA issues: probably not. Stupid in the sense it might cause a whole lot of people liver damage and other mitochondrial issues: possibly, and the trade offs will have to be weighed quite seriously.</p>
+    </div>
+  </body>
+</post>

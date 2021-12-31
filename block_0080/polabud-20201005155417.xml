@@ -1,0 +1,37 @@
+<post>
+  <author>polabud</author>
+  <date>2020-10-05T15:54:17Z</date>
+  <link>/r/TheMotte/comments/j5iv9w/covid19_vs_influenza_ifr_by_age_bracket_check_my/g7sro6x/</link>
+  <title>Some Fact-Checking on COVID-19 IFR</title>
+  <body>
+    <div class="md">
+      <p>You're getting a few things wrong here - there's actually been a lot of IFR misinformation going around, mostly from motivated sources. If you look in my comment history, I've been reviewing the papers on this subject for the past six months. </p>
+      <p>The 0.1% cited flu IFR is actually closer to a CFR. More specifically, it's an IFR-S - or an IFR for symptomatic infections. COVID IFRs include asymptomatic infections. We don't actually have great estimates of true flu IFR, but most true IFR estimates cluster at 0.01-0.05 depending on the year and on how you determine deaths and incidence. Further, the death numbers for the CDC's flu IFR are calculated using a much more inclusive metric from excess deaths; COVID death numbers (and the resultant IFRs) are confirmed deaths. If we used that metric for the flu, we'd get something like 10k deaths in 2017-18 rather than 60k (I'll find the cdc page for this later). Papers estimating COVID IFR will no doubt be using excess deaths in the future, but right now it's just too fluid and we're really limited in what we can do.</p>
+      <p>As for the CDC COVID IFR - it's a good metric, but there's something off about the 70+ IFR: if you look at the paper it cites, this IFR does not pertain to 80+ because the paper assumes 100% case detection in that cohort. If you're looking for an excellent paper on COVID IFR by age, see <a href="https://www.medrxiv.org/content/10.1101/2020.07.23.20160895v5">https://www.medrxiv.org/content/10.1101/2020.07.23.20160895v5</a> . </p>
+      <p>0-34: 0.004%</p>
+      <p>35-44: 0.06%</p>
+      <p>45-54: 0.2%</p>
+      <p>55-64: 0.7%</p>
+      <p>65-74: 2.3%</p>
+      <p>75-84: 7.6%</p>
+      <p>85+: 22.3%</p>
+      <p>It also does a good job of comparing the risk to something that is better determined than flu risk: risk of dying in a car crash (page 9), according to which COVID risk is worse for basically anyone over 30 for sure (and probably anyone over 18 if they had separated young adults from children). Most attempts at comparing covid to flu risk rigorously find that flu risk is worse for kids under the age of 10, it's equivocal up to the age of 18, and COVID is worse after that with the really bad multiples starting in the 40s/50s (of course not a huge absolute risk until you get to the 60s).</p>
+      <p>And as for the narrative that scientists overestimated COVID in March (seen in this thread) - this is also seductive but false. The earliest estimates of COVID IFR were determined in part by inferring prevalence in wuhan from the number of positive cases returning on charter flights in February. Three different groups gave point estimates ranging from 0.6-1% in late January and early February:</p>
+      <p>
+        <a href="https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html">https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html</a>
+      </p>
+      <p>
+        <a href="https://www.mdpi.com/2077-0383/9/2/523">https://www.mdpi.com/2077-0383/9/2/523</a>
+      </p>
+      <p>
+        <a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-4-severity-of-covid-19/">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-4-severity-of-covid-19/</a>
+      </p>
+      <p>And the WHO gave a range of 0.3-1% on February 19th:</p>
+      <p>
+        <a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200219-sitrep-30-covid-19.pdf">https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200219-sitrep-30-covid-19.pdf</a>
+      </p>
+      <p>These were the estimates that informed policy decisions in March. The WHO got a lot wrong, but what's remarkable about the IFR estimates is how accurate they were (wrt the developed world): all of our evidence for the first wave points to something like 1% in the older countries in Europe, maybe 0.6-0.7 in the US outside of NYC, and around 0.3 for places that are younger or did an excellent job shielding like Iceland. If there's one thing to criticize, it's that the WHO's estimates have proved less accurate wrt the developing world, where youth has made more of a difference than healthcare capacity and comorbidities. But this, IMO, blames scientists for policy mistakes: IFR is not set in stone, and the early estimates were with respect to China - it was rightly assumed that these would carry over to similarly aged populations but I don't think we thought rigorously enough about what this would mean for places where the median age is in the 20s (many parts of Africa).</p>
+      <p>A related aside: generally, I think that people who are serious about pushing for looser policy (for which there are excellent arguments!) would do well to ignore Berenson et al - they've basically been poisoning the well for productive discourse by systematically misinforming people about IFR and other related topics since March.</p>
+    </div>
+  </body>
+</post>

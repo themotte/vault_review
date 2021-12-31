@@ -1,0 +1,26 @@
+<post>
+  <author>Weaponomics</author>
+  <date>2020-01-23T19:28:32Z</date>
+  <link>/r/TheMotte/comments/er8kug/culture_war_roundup_for_the_week_of_january_20/ffcutv0/</link>
+  <title>Pigou–Knight–Downs paradox Regarding Transportation</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>Presumably, the outward pressure is primarily driven by city housing prices, which ought to be ameliorated inasmuch as your superior transit options convince people to move out. </p>
+      </blockquote>
+      <p>Not necessarily.</p>
+      <p>The <a href="https://en.m.wikipedia.org/wiki/Downs%E2%80%93Thomson_paradox">Pigou–Knight–Downs paradox</a> posits that we’re screwed regardless of our investment choice between public transportation or private cars - specifically that time-spent-commuting will be constant regardless of what mode of transport is chosen. </p>
+      <p>In other words, average commute times are agnostic to public transit investment vs personal car investment (new roads, etc). </p>
+      <p>Consider Roughly:</p>
+      <p>At equilibrium: [city housing price] = [suburb housing price + commute cost] </p>
+      <p>Average commute cost = f{distance, traffic, time-of-day}</p>
+      <p>From there:</p>
+      <p>If we build more roads: people move to marginally less-expensive suburbs: at peak hours, car-density-related-time-cost decreases, but distance-related-time-cost increases.</p>
+      <p>If we build more efficient public transit in cities: city housing prices go up <em>faster</em>: people move to marginally less-expensive suburbs: at peak hours, car-density-related-time-cost decreases, but distance-related-time-cost increases, and average commute is static. If city housing density has flexibility, then city housing prices won’t go up as much, but the volume of public transit users will slow inside-the-city transit down to a rate that keeps the average commute time static. </p>
+      <p>If we build more efficient medium-range public transit (I.e. from suburb-&gt;city) city housing prices go down, people move to marginally less-expensive inner city: at peak hours, car-density-related-time-cost increases, but distance-related-time-cost decreases, and average commute is static.</p>
+      <p>—————————</p>
+      <p>That said, road construction and public transit investment needs to continue wherever effective - not just to keep up with population growth, but also because it’s more options for constituents. (read: lower consumer prices, as less economic profit is realized by firms differentiating based on geography).</p>
+      <p>My point is that the <a href="https://en.m.wikipedia.org/wiki/Lewis%E2%80%93Mogridge_Position">Iron Law of Congestion</a> (<em>“traffic expands to meet the available road space”</em>) is a mean, insufferable Law - and that preventing the <em>growth</em> of congestion is all we can hope for.</p>
+    </div>
+  </body>
+</post>

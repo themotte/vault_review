@@ -1,0 +1,29 @@
+<post>
+  <author>cvdailyupdates</author>
+  <date>2020-04-17T18:00:16Z</date>
+  <link>/r/TheMotte/comments/g14usp/coronavirus_quarantine_thread_week_6/fnpj607/</link>
+  <title>Civil Liberties and the Impossibility of Full Lockdown</title>
+  <body>
+    <div class="md">
+      <p>Epistemic status: thinking out loud</p>
+      <p>It has been bothering me for a few weeks now why people whose opinions I otherwise respect seem to be so not only wrong, but <em>dangerous</em> on the subject of the sudden curtailment of our civil liberties, and I think your comment has just hit on a major explanatory factor that I have not realized: do the people I'm arguing against believe that a (100-ε)% effective lockdown is possible? I am taking as basically axiomatic that a (100-ε)% lockdown is both not practically possible, and would carry unacceptable moral and economic costs. </p>
+      <p>So I have an open question to the room: Assume for the sake of argument that <em><strong>no matter what you do</strong></em>, no matter how strict your laws are, no matter how draconian your enforcement is, no matter how prevalent your public health propaganda is, etc., that you will never, ever, ever, ever, ever be able to get a lockdown over 95% effective in the United States. If you assume this, how do your perspectives and opinions change? If you assume this, do you still believe whatever it is you currently believe? If you assume this, do the current measures seem more reasonable? Less reasonable? If you assume this, would that change which policies you wish to implement?</p>
+      <p>I don't mean to pick on you but it is an easy example. Apologies in advance if I have misunderstood you </p>
+      <blockquote>
+        <p>The problem is that 1% of people ignoring lockdown is a far worse scenario than 0.1% of people ignoring lockdown.</p>
+      </blockquote>
+      <p>Implies that there are non-linearities at play, and that going from 99.8% lockdown to 99.9% lockdown is more significant than going from 98% to 99% lockdown.</p>
+      <p>This would suggest that if one thought it was possible to get to 99.9% lockdown, then one would be willing to tolerate dramatic measures to get to that point (because the payoff is so large), whereas if one thought that 99% was the best we could do, they would be willing to tolerate only lesser measures (because the maximum size of the payoff is capped at a significantly lower level)</p>
+      <hr />
+      <p>At the risk of biasing responses, here is what I am thinking. There exists a faction of people who think it is possible (either explicitly or implicitly) to get to a 100% total lockdown. They know that a 100% total lockdown is sufficient to completely destroy virus. They look at our current situation, and see the following:</p>
+      <ul>
+        <li>Virus still exists</li>
+        <li>Lockdown is not yet 100%</li>
+      </ul>
+      <p>And they push for stricter lockdown requirements, not because they have done a cost-benefit analysis and decided on the optimal tradeoff point, but rather just because they can (note: I do not mean this to sound dismissive to their position but I couldn't think of a better way to phrase this). </p>
+      <p>If, however, it is <em>actually impossible</em> to get past 95%, then this is setting us up for a big problem. Because you can always make the measures stricter, but if it caps out at 95%, then there is a point beyond which stricter measures will not increase lockdown percentage. However, if the decision process is "lockdown reduces virus. If virus exists, lockdown harder to make it not exist", then this creates a control loop whose terminal condition is never reached. In other words, it creates a mechanism by which the level of oppression in the name of public health <em>grows forever with no terminal condition</em>. </p>
+      <p>On the other hand, if you accept (for example) an absolute upper bound of 95% lockdown (or whatever number, the important part being it's nontrivially far from 100%), suddenly lockdowns become a much lower priority. For example, if you accept that a 100% lockdown is possible, then allowing even one single deviation from perfection is unacceptable. But if you accept that no matter what you do, you will only ever reach 95%, then any individual failure to comply becomes WAY LESS IMPORTANT (due to the non-linearity of 99.8-99.9 vs 98-99). You see someone violating lockdown orders and instead of thinking "holy fuck he put my life at risk", you think "my life was already at risk via this mechanism, and that risk is a force of nature that I have no control over, and so this specific person's noncompliance does not change my risk at the margin". </p>
+      <p>And then, once you accept as axiomatic that one specific person's noncompliance does not change your risk at the margin, suddenly scenarios <a href="https://nypost.com/2020/04/03/malibu-paddleboarder-arrested-for-violating-stay-at-home-order/">like this one</a> look a lot less like 'diligent public health policy' and a lot more like "literal nazi-tier shit".</p>
+    </div>
+  </body>
+</post>

@@ -1,0 +1,62 @@
+<post>
+  <author>immortal_lurker</author>
+  <date>2020-02-09T00:00:31Z</date>
+  <link>/r/TheMotte/comments/ey1zdz/culture_war_roundup_for_the_week_of_february_03/fh0qc12/</link>
+  <title>A Statistical Analysis of False Convictions</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>If Blacks commit 6 times the violent crime, you should expect 6 times the wrongful conviction rate. If people 3ft tall committed 6 times the violent crime, you should also expect 6 times the wrongful conviction rate. I think that's justice, and what you should expect statistically across all categories. </p>
+      </blockquote>
+      <p>I'm not sure the statistics for this is correct. I tried typing up some equations, but they made things more confusing not less, so I'm just going put a few up and then talk as if I hadn't put them here.
+G = Guilty
+B = Black
+S = Sentenced</p>
+      <p>Its taken for the sake of argument that </p>
+      <pre>
+        <code>P(G|B) = 6 * P(G|~B)
+</code>
+      </pre>
+      <p>However, its claimed that this proves that</p>
+      <pre>
+        <code>P(S|~G&amp;B) = 6 * P(S|~G&amp;~B)
+</code>
+      </pre>
+      <p>This seems incorrect to me. I'm going to try and sound out my reasoning in a somewhat mathematical way. The conclusion seems like its drawing from the intuition that since</p>
+      <pre>
+        <code>P(G|B) = 6 * P(G|~B)
+</code>
+      </pre>
+      <p>Then</p>
+      <pre>
+        <code>P(S|B) = 6 * P(S|~B)
+</code>
+      </pre>
+      <p>But I don't that is true. Because</p>
+      <pre>
+        <code>P(S|B) = P(S|B&amp;G)P(B&amp;G) + P(S|B&amp;~G)*P(B&amp;~G)
+</code>
+      </pre>
+      <p>And while the first term is six times higher, the second one isn't. </p>
+      <p>At least not necessarily. Take the breast cancer question.</p>
+      <blockquote>
+        <p>100 out of 10,000 women at age forty who participate in routine screening have breast cancer. 80 of every 100 women with breast cancer will get a positive mammography. 950 out of 9,900 women without breast cancer will also get a positive mammography. If 10,000 women in this age group undergo a routine screening, about what fraction of women with positive mammographies will actually have breast cancer? </p>
+      </blockquote>
+      <p>Now suppose something dreadful happens, and the rate of breast cancer in women sextuples, to 600 out of 10,000, while leaving the nature of the cancer exactly the same. Now what happens to the rate of false positives?</p>
+      <p>Nothing! </p>
+      <p>The machine is exactly as good as it was before. 950 out of 9,900 women without breast cancer will also get a positive mammography.</p>
+      <p>Therefore, a high rate of violent crime should not imply a high rate of false conviction.</p>
+      <p>This ends the statistics.</p>
+      <p>And starts a defence of equality and justice that you can probably autocomplete, but I'm going to type it out anyway.</p>
+      <blockquote>
+        <p>More likely to have committed a crime, which raises the rate of wrongful conviction for the entire population, as there's always a small chance of wrongful conviction and 1% of 45 is more than 1% of 14</p>
+      </blockquote>
+      <p>Why 1% of 45 and 1% of 14? Are we rounding up all the criminals after determining for sure who they are, and then going out and grabbing a few extra innocents proportional to demographics of the guilty population?</p>
+      <p>What we are actually doing, (as far as I can tell, I don't even watch CSI), is investigate who we think might have done it, arrest and try people who were slightly more likely to have done it, and convict people we are pretty sure did it. Actually, the third step doesn't really happen much, so I guess after arrest offer them the risk of a really big stick or the certainty of a smaller stick, with the relative proportions of stick sizes being related to the quality of the evidence against them, what they are suspected of doing, and if the prosecutor is up for re-election.</p>
+      <p>But I digress. At each stage, the actors involved don't have direct access to the knowledge of if the suspect actually did it. So they use proxies. (Pedantically, even your eyes and memories are just proxies for the truth.) These proxies all have false negatives and false positives.</p>
+      <p>However, the false negatives and false positives for every method are not necessarily the same across populations. And its perfectly reasonable for people to complain when they see that. Why should they be happy with the short end of the stick?</p>
+      <p>To me, the optimal solution seems to be "improve the proxies and process" such that the false negatives and positives are reduced. All stakeholders need to be involved in that change, because the current system has problems that have different impacts on different groups. (Yes, that is phrased awkwardly, but I couldn't think of an elegant way to write "predictable bias, as with the death penalty, and predictable different noise, such as white and black people being equally likely to get shot/arrested per police interaction, but black people being far more likely to interact with the police.")</p>
+      <p>Just to clarify, I'm not talking about maximizing for multiple different definitions of fairness that are impossible to achieve at the same time assuming any failures at all. There being no consensus for what fairness would look like even if we could achieve it is one of the problems were just going to have to kludge our way around.</p>
+    </div>
+  </body>
+</post>

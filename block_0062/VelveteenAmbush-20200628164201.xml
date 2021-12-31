@@ -1,0 +1,16 @@
+<post>
+  <author>VelveteenAmbush</author>
+  <date>2020-06-28T16:42:01Z</date>
+  <link>/r/TheMotte/comments/hdlwx8/culture_war_roundup_for_the_week_of_june_22_2020/fwa221d/</link>
+  <title>Steryotype Accuracy and the Bias in Machine Learning</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>I only skimmed the issue because I lack the technical skills, but I don’t even get what people have a problem with exactly?</p>
+      </blockquote>
+      <p>As part of his response, he said (paraphrasing) that "algorithms aren't biased, only data is." Which has the benefit of being true, and obviously such, but the harm of blessing any observations by ML algorithms where the data <em>isn't</em> biased. For example -- that <a href="https://old.reddit.com/r/TheMotte/comments/hdlwx8/culture_war_roundup_for_the_week_of_june_22_2020/fvrdsy3/">Asians all look the same</a>.</p>
+      <p>Longtime posters on <a href="/r/TheMotte">/r/TheMotte</a> are probably familiar with the concept of <a href="https://www.psychologytoday.com/us/blog/insight-therapy/201809/stereotype-accuracy-displeasing-truth">stereotype accuracy</a>. Well, normal people aren't; it's a canonical and foundational belief of modern multicultural society that stereotypes are all bigoted slurs and that all groups have precisely the same tendencies and capabilities. Obviously that creates a lot of tension with empiricism, creates whole tracts of science that they have to censor and punish people for elaborating. Steve Sailer calls that tendency, with characteristic flair, the <a href="https://www.unz.com/?s=%22war+on+noticing%22&amp;Action=Search&amp;authors=steve-sailer&amp;ptype=all">War on Noticing</a>.</p>
+      <p>Well, deep learning is great at noticing. It can form higher-dimensional intuitions than any other method from raw data, so it can notice anything with the right network architecture and data set. And because it is conjured directly from matrix multiplications and activation functions, it is hard to discredit it with the arsenal used for the war on human noticing: accusations of subjectivity, cultural bias, deep seated bigotry, structural racism, etc. Its methods are well founded and objectively neutral relative to the data set. Which makes it very dangerous. So those who would deny stereotype accuracy need to add another axiom to their canon: that Machine Learning Is Biased. It's hard to explain exactly where the bias comes from, but rooting it solely in the data set doesn't get you there, because you still have cases like Asian faces looking the same despite obviously heroic efforts to fix the problem with data (see above). So it has to be taken on faith. If you deny that Machine Learning Is Biased, or even try to consecrate the algorithms <em>themselves</em> as unbiased, as LeCun did, then you are compromising the perimeter and allowing your enemies a superweapon and ultimately dooming the War on Noticing.</p>
+    </div>
+  </body>
+</post>

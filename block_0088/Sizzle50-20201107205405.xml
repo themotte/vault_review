@@ -1,0 +1,184 @@
+<post>
+  <author>Sizzle50</author>
+  <date>2020-11-07T20:54:05Z</date>
+  <link>/r/TheMotte/comments/jn8wzm/us_election_day_2020_megathread/gbhqwsg/</link>
+  <title>Contra Nate Silver on Polling Errors</title>
+  <body>
+    <div class="md">
+      <p>This is either complete revisionism or egregiously reductive. In each election cycle there are only roughly a dozen states that are the focus of pollsters and prognosticators; these are called swing states. The swing state polling was genuinely abysmal this cycle, errors as follows:</p>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">State</th>
+            <th align="left">Forecast</th>
+            <th align="left">Reality</th>
+            <th align="left">Error</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">Texas</td>
+            <td align="left">Trump +1.5%</td>
+            <td align="left">Trump +5.8%</td>
+            <td align="left">Biden +4.3%</td>
+          </tr>
+          <tr>
+            <td align="left">Iowa</td>
+            <td align="left">Trump +1.5%</td>
+            <td align="left">Trump +8.2%</td>
+            <td align="left">Biden +6.7%</td>
+          </tr>
+          <tr>
+            <td align="left">Ohio</td>
+            <td align="left">Trump +0.6%</td>
+            <td align="left">Trump +8.2%</td>
+            <td align="left">Biden +7.6%</td>
+          </tr>
+          <tr>
+            <td align="left">Georgia</td>
+            <td align="left">Biden +0.9%</td>
+            <td align="left">*Biden +0.2%</td>
+            <td align="left">*Biden +0.7%</td>
+          </tr>
+          <tr>
+            <td align="left">Maine 2D</td>
+            <td align="left">Biden +1.6%</td>
+            <td align="left">Trump +3.2%</td>
+            <td align="left">Biden +4.8%</td>
+          </tr>
+          <tr>
+            <td align="left">North Carolina</td>
+            <td align="left">Biden +1.7%</td>
+            <td align="left">*Trump +1.4%</td>
+            <td align="left">*Biden +3.1%</td>
+          </tr>
+          <tr>
+            <td align="left">Florida</td>
+            <td align="left">Biden +2.5%</td>
+            <td align="left">Trump +3.3%</td>
+            <td align="left">Biden +5.8%</td>
+          </tr>
+          <tr>
+            <td align="left">Arizona</td>
+            <td align="left">Biden +2.6%</td>
+            <td align="left">*Biden +0.3%</td>
+            <td align="left">*Biden +2.3%</td>
+          </tr>
+          <tr>
+            <td align="left">Pennsylvania</td>
+            <td align="left">Biden +4.7%</td>
+            <td align="left">*Biden +0.7%</td>
+            <td align="left">*Biden +4.0%</td>
+          </tr>
+          <tr>
+            <td align="left">Nevada</td>
+            <td align="left">Biden +6.1%</td>
+            <td align="left">*Biden +2.0%</td>
+            <td align="left">*Biden +4.1%</td>
+          </tr>
+          <tr>
+            <td align="left">Michigan</td>
+            <td align="left">Biden +8.0%</td>
+            <td align="left">Biden +2.7%</td>
+            <td align="left">Biden +5.3%</td>
+          </tr>
+          <tr>
+            <td align="left">Wisconsin</td>
+            <td align="left">Biden +8.3%</td>
+            <td align="left">Biden +0.7%</td>
+            <td align="left">Biden +7.6%</td>
+          </tr>
+          <tr>
+            <td align="left">Minnesota</td>
+            <td align="left">Biden +9.1%</td>
+            <td align="left">Biden +7.2%</td>
+            <td align="left">Biden +1.9%</td>
+          </tr>
+          <tr>
+            <td align="left">New Hampshire</td>
+            <td align="left">Biden +10.6%</td>
+            <td align="left">Biden +7.2%</td>
+            <td align="left">Biden +3.4%</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>So we have a mean error of 4.4%, universally in the same direction, whereas the mean margin of victory was only 3.65%. On two occasions, the forecasts were off by a whopping 7.6%. The mean error was larger than the margin of victory in 9 of the 14 swing states. 538 forecast the popular vote to be Biden +8; it is currently Biden +2.9, although that may widen a bit. Including 2018, this marks 3 election cycles in 4 years where the polls significantly overstated Dem support and understated support for Republicans</p>
+      <p>Down-ballot was even more of a failure. 538 projected that the Dems would <strong>gain</strong> 7 House seats, for a forecasted total of 239. In actuality, Dems are on track to <strong>lose</strong> between 7-11 House seats, for a potential total of ~223. 538 projected Dems to end up with 52 Senate seats, when they are now seemingly capped to 48-50 (likely closer to the former as they are not favored to win the GA runoffs). The <a href="https://projects.fivethirtyeight.com/2020-election-forecast/senate/">10 states</a> that 538 projected to be closest are detailed below:</p>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">State</th>
+            <th align="left">Forecast</th>
+            <th align="left">Reality</th>
+            <th align="left">Error</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">Georgia</td>
+            <td align="left">Perdue +0.3%</td>
+            <td align="left">Perdue +1.9%</td>
+            <td align="left">Dem +1.6%</td>
+          </tr>
+          <tr>
+            <td align="left">Iowa</td>
+            <td align="left">Ernst +1.4%</td>
+            <td align="left">Ernst +6.6%</td>
+            <td align="left">Dem +5.2%</td>
+          </tr>
+          <tr>
+            <td align="left">Maine</td>
+            <td align="left">Gideon +2.0%</td>
+            <td align="left">Collins +8.9%</td>
+            <td align="left">Dem +10.9%</td>
+          </tr>
+          <tr>
+            <td align="left">N. Carolina</td>
+            <td align="left">Cunning +3.2%</td>
+            <td align="left">*Tillis +1.7%</td>
+            <td align="left">*Dem +4.9%</td>
+          </tr>
+          <tr>
+            <td align="left">Montana</td>
+            <td align="left">Daines +3.2%</td>
+            <td align="left">Daines +10.0%</td>
+            <td align="left">Dem +6.8%</td>
+          </tr>
+          <tr>
+            <td align="left">S. Carolina</td>
+            <td align="left">Graham +5.1%</td>
+            <td align="left">Graham +10.3%</td>
+            <td align="left">Dem +5.2%</td>
+          </tr>
+          <tr>
+            <td align="left">Arizona</td>
+            <td align="left">Kelly +5.2%</td>
+            <td align="left">Kelly +2.6%</td>
+            <td align="left">Dem +2.6%</td>
+          </tr>
+          <tr>
+            <td align="left">Alaska</td>
+            <td align="left">Sullivan +5.8%</td>
+            <td align="left">*Sullivan +30.2%</td>
+            <td align="left">*Dem +24.4%</td>
+          </tr>
+          <tr>
+            <td align="left">Kansas</td>
+            <td align="left">Marshall +5.8%</td>
+            <td align="left">*Marshall +11.9%</td>
+            <td align="left">Dem +6.1%</td>
+          </tr>
+          <tr>
+            <td align="left">Michigan</td>
+            <td align="left">Peters +7.0%</td>
+            <td align="left">*Peters +1.5%</td>
+            <td align="left">Dem +5.5%</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Excluding Alaska where half the vote is still outstanding, this gives us a mean error of 5.42%, universally in favor of Democratic candidates. We actually see a &gt;10 point polling error in one of the most aggressively polled states this cycle</p>
+      <p>All of Silver's dull and unperceptive analysis this past year has been based on demonstrably bad data. Worse, the pollsters that he elevates in his "pollster ratings" are among the very least accurate. ABC/WaPo and Siena/NYTimes which he deems "A+" pollsters had some of the most heavily biased polls. Quinnipiac at "B+" and FoxNews at "A-" were disasters. Meanwhile, Big Data Poll, which Silver gives an "F" was among the very few to be closely on target</p>
+      <p>Interestingly, the candidates' internal polling seemed to be on the mark as they correctly targeted the right states for rallying and campaigning. But Silver's perception was stupid as all hell, asserting ludicrously that Montana was closer than Wisconsin and claiming Texas was verging on a toss-up. Hopefully this election cycle has revealed him to be the fairly clueless partisan that he is; frankly, I can't help but think less of anyone who lets him convince them he didn't whiff this cycle very badly in the exact same direction as last time. The only difference is Trump narrowly missed the threshold in several close states this go-round - if Trump had performed 0.7% better across the board (commensurate with polling reflecting 0.7% more support beforehand), Silver's awful misaligned forecasts would've missed fully <strong><em>half</em></strong> of the territories even arguably in contention (FL, GA, NC, ME2, AZ, PA, WI) as well as the overall election - purely dumb luck saved him from being worse than a literal coin-flip</p>
+    </div>
+  </body>
+</post>

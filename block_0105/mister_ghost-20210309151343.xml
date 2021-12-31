@@ -1,0 +1,38 @@
+<post>
+  <author>mister_ghost</author>
+  <date>2021-03-09T15:13:43Z</date>
+  <link>/r/TheMotte/comments/m137nu/for_whom_the_bell_curve_tolls_a_lineage_of_400000/gqc2hpz/</link>
+  <title>Some problems for Gregory Clark's genetic determinism</title>
+  <body>
+    <div class="md">
+      <p>I saw this in the CW thread, and I've been mulling it over.</p>
+      <p>To summarize the argument, the first thing to emphasize is that Clark doesn't measure genes. He doesn't talk about polygenic scores or this marker or that allele (I don't know what any of those words mean). Instead he uses a crude but well understood measurement: genetic distance. His logic is</p>
+      <blockquote>
+        <p>Our data overwhelmingly favours a model where actual status is determined by "intrinsic status" + random variation, and intrinsic status depends only on the intrinsic status of the parents, not on their actual status. This is similar to genes and mostly dissimilar to environment or culture, where we would expect actual status and not intrinsic status to be heritable</p>
+      </blockquote>
+      <p>In other words, his model of intergenerational status is</p>
+      <ol>
+        <li>
+          <p>S<sup>actual</sup> = S<sup>heritable</sup> + rand</p>
+        </li>
+        <li>
+          <p>Expected value(S<sup>heritable,child</sup> ) = h*(S<sup>heritable,mom</sup> + S<sup>heritable,dad</sup> )/2</p>
+        </li>
+      </ol>
+      <p>Which is like genes, therefore it's genetic.</p>
+      <p>He did good work with the data as far as I can tell, so I have no reason to doubt that the model is accurate, but there is still something weird. His model requires that even in 18<sup>th</sup> century England, people assortatively mated based on potentially-latent genetics <em>more strongly than they did on the expression of those genetics</em> which is just wild. It might be true - he cites something to that effect - but it's by far a more exciting conclusion than "status is genetic". This also suggests that maybe the mating is assortative on some expression of a gene, that that expression is S<sup>heritable</sup> (it could be hardworkingness or attractiveness or something that belongs in the CW thread), and that there's nothing latent about it.</p>
+      <p>I'd like to jump back and look at the equations, though. Naming the variables like that is leading the reader to a conclusion. I will replace S<sup>heritable</sup> with X, and S<sup>actual</sup> with S<sup>measured</sup> . Then we see</p>
+      <ol>
+        <li>
+          <p>S<sup>measured</sup> = X + rand</p>
+        </li>
+        <li>
+          <p>Expected value(X<sup>child</sup> ) = h*(X<sup>mom</sup> + X<sup>dad</sup> )/2</p>
+        </li>
+      </ol>
+      <p>And in this framing, we can see that something much less exciting might be going on here. If you don't see it yet, replace X with S and skootch rand to the left of the '=': it's good old random measurement error.</p>
+      <p>I don't know enough about his methods to say that the above is accurate, but I do think that it's a valid explanation. The model can be explained using this "latent status genes" concept, or it can be explained by <em>Clark being worse than he thinks he is at measuring status</em>. The latter explanation means people would mate assortatively on actual status more strongly than they would on Clark's measurements of their status, which seems like a no-brainer.</p>
+      <p>Again, I'm not saying that's what it is, but I would be interested in evidence that it isn't. And even if that's what it is, this is still an extremely cool statistical exercise - Clark developed a method for lowering measurement error of status by also observing the status of relatives and making a Bayesian correction - but it doesn't have the "kill shot" of latent but still transmissible status.</p>
+    </div>
+  </body>
+</post>

@@ -1,0 +1,31 @@
+<post>
+  <author>SlightlyLessHairyApe</author>
+  <date>2021-03-31T15:54:52Z</date>
+  <link>/r/TheMotte/comments/mfj47c/culture_war_roundup_for_the_week_of_march_29_2021/gsxdc8j/</link>
+  <title>The benefits of preventing people from being put into the criminal justice system in the first place</title>
+  <body>
+    <div class="md">
+      <p>
+        <a href="https://www.reddit.com/r/theschism/comments/mh94ki/do_misdemeanor_prosecutions_increase_crime/?">x-posted here</a>
+      </p>
+      <p>[ Full disclosure: strong chance of confirmation bias on my part posting this paper, more details at the bottom ]</p>
+      <p>From MR, a <a href="https://static1.squarespace.com/static/5984aae4e58c62ee930f614a/t/6061b81f0fbea64d81d3584c/1617016863900/Misdemeanor_Prosecution_ADH.pdf">blockbuster paper</a> exploiting the random assignment of more or less lenient ADAs to defendants accused of non-violent misdemeanors. Not to bury the lede, the conclusion:</p>
+      <blockquote>
+        <p>For the marginal defendant, nonprosecution of a nonviolent misdemeanor offense leads to large reductions in the likelihood of a new criminal complaint over the next two years. These local average treatment effects are largest for first-time defendants, suggesting that averting initial entry into the criminal justice system has the greatest benefits.</p>
+      </blockquote>
+      <h4>Methodology</h4>
+      <p>The paper focuses not on comparing defendants that were prosecuted/non-prosecuted because those groups would likely differ in a number of ways that would complicate (or outright defy) any attempt to control for them. Rather, they note that the particular ADA that would represent the State <em>at arraignment</em> is effectively random and that those ADAs have varying rates of non-prosecution, ranging from 10-30%. This should be, and is later shown to be robust, against being correlated with offense type and other likely confounders. It's also tested that the arraigning ADA is not impactful for the subset of prosecuted defendants, so once one passes that gate, it doesn't matter who was originally making the charging decision. </p>
+      <h4>Results</h4>
+      <p>Non-prosecuted defendants are 10 percentage points (27% relative decrease) less likely to be the subject of a followup criminal complaint in two years. The effect is seen across all offense types -- from misdemeanor up to felonies. The huge sample size (75,000) and effect that's robust across the covariates makes for a pretty solid story. </p>
+      <p>Playing devil's advocate, the only thing I could really come up with is that crimes and criminals are temporally uneven and that something about the DA scheduling systematically pushes more lenient DAs towards those that were already less likely to reoffend. Either that or police intentionally screening which defendants they bring to arraignment based on knowing which DA is likely to be there, although in this case it suggests that the police are <em>better</em> at chosing when they believe the DA is lenient, which is itself significant in its own right.</p>
+      <h4>Mechanisms</h4>
+      <p>This is the paper's weakest section, and honestly I really wish that some researchers would just focus on quantifying it and let others theorize on it. They propose a few mechanisms -- direct involvement in the criminal justice system, the ill-effects of a conviction record on future employment or the ill effects of an arrest record on future employment. </p>
+      <p>For my part, I think they are overlooking some softer/psychological aspects to it. A person with a criminal record has less to lose from a subsequent offense and so in a psychological sense the non-prosecution operates like <a href="https://youtu.be/XBmJay_qdNc?t=379">forgiveness / confession</a> and breaks what Dan Ariely calls the "what the hell effect". Prosecution for a minor offense slots people in to a mode where they are already <em>in their own minds</em> compromised. </p>
+      <h4>Implications</h4>
+      <p>Well this comes back to the confirmation bias part, but I think the paper suggests that it's not a good idea to extrapolate the desire to exert X amount of severity on serious/violent crime to being proportionally tough on trivial/non-violent crimes. I'm fully in favor of the former, but one can believe that a wider gap here is actually helpful in terms of deterring more serious crime entirely. </p>
+      <p>That is to say, what's interesting (to me) here is that there is some funnel or slope from minor to severe crime, and that more prosecution demonstrably makes that slope steeper totally apart from the individual doing the crime. Society is unwittingly greasing the rails from playing music too loud to violence. </p>
+      <p>[ And conversely, this means that one ought to be able to support leniency in the trivial case without fear that it will bleed over into leniency in the severe/violent ones. This is politically impossible (or at least challenging) since it seems we really only have one <a href="https://www.reddit.com/r/theschism/comments/jsb50n/n_short_stories_about_the_car_thermostat/">themostat</a> for criminal justice. One thing I'm trying not to just pout over. ]</p>
+      <p>It also has implications to disciplinary systems below the criminal one and the thermonuclear topic of the school-to-prison pipeline. If prosecution of nonviolent misdemenaors leads to higher reoffsense rates, it might suggest somthing similar in the context of a school that cannot convince a kid to consider themslves a good kid.</p>
+    </div>
+  </body>
+</post>

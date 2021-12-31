@@ -1,0 +1,67 @@
+<post>
+  <author>zergling_Lester</author>
+  <date>2020-05-25T20:32:20Z</date>
+  <link>/r/TheMotte/comments/glv7wt/culture_war_roundup_for_the_week_of_may_18_2020/frswbl6/</link>
+  <title>Worse is Better: Why Software Sucks</title>
+  <body>
+    <div class="md">
+      <p>My take on why software sucks is informed more by <a href="http://dreamsongs.com/WorseIsBetter.html">Worse is Better</a>, which in my opinion is wrong, but wrong in an interesting, thought-provoking way.</p>
+      <p>In short, Richard P. Gabriel summarizes two approaches to developing software as the different orderings of four goals, and I'm aware that I'm butchering the original horribly but I think that I'm distilling the important stuff this way. So The Right Thing tries to achieve:</p>
+      <ol>
+        <li>Correctness</li>
+        <li>Consistency</li>
+        <li>Completeness</li>
+        <li>Simplicity</li>
+      </ol>
+      <p>And the Worse is Better approach moves Simplicity up to the second place, also emphasizing the simplicity of implementation over the simplicity of interface, and also puts Completeness slightly above Consistency:</p>
+      <ol>
+        <li>Correctness</li>
+        <li>Simplicity</li>
+        <li>Completeness</li>
+        <li>Consistency</li>
+      </ol>
+      <p>And then RPG makes a very believable point that whenever some sort of an ecological niche opens, like "a scripting language for an OS/hardware that can afford it" or "a language for rendering webpages", the Worse is Better approach inevitably wins the scramble to fill it because it produces a minimal viable product ASAP, then it quickly grows to cover say 90% of the use cases, and then five years later when someone finally releases The Right Thing that elegantly achieves 100% of the use cases, it simply can't compete because of the network effects. And that's why all widely used software is wildly inconsistent and otherwise sucks.</p>
+      <p>RPG wrote this essay in the late eighties, let's see what happened since then, in a wildly inaccurate and opinionated list:</p>
+      <p>1990 - perl replaces sh as the go to UNIX scripting language<br />
+1995 - PHP becomes the web language instead of perl<br />
+2000 - Ruby becomes the web language<br />
+2005 - Python replaces perl as the go to scripting language<br />
+2010 - Ruby is mostly replaced by Python and Java and later Go<br />
+2015 - Javascript everywhere<br />
+2020 - Ask me in five years  </p>
+      <p>So there goes the network effect theory. What adds insult to injury is that the replacements usually weren't by any measure Right Things (idk about Ruby tbh and that's the only exception).</p>
+      <p>Now let's talk about something completely different. C++98 had four kinds of iterators:</p>
+      <ul>
+        <li>input - you can get the current value and move to the next.</li>
+        <li>forward - you can also make a copy of the iterator (rules out iterating over network streams or keyboard input)</li>
+        <li>bidirectional - you can also move backwards (rules out linked lists)</li>
+        <li>random access - you can <em>efficiently</em> move forwards and backwards by any number of items (rules out doubly linked lists, vectors and maps are in though)</li>
+      </ul>
+      <p>Such a neat hierarchy is clearly something we discovered rather than invented, something <a href="https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK">from THE BOOK</a>. So instead of</p>
+      <pre>
+        <code> for (int i = 0; i &lt; v.size(); i++) {
+       printf("%d ", v[i]); 
+ }
+</code>
+      </pre>
+      <p>We would write</p>
+      <pre>
+        <code> for (std::vector&lt;int&gt;::const_iterator it = v.begin(), end = v.end(); it != end; ++it) { 
+       printf("%d ", *it);
+ }
+</code>
+      </pre>
+      <p>Such is the price of progress. But lo, the Boost library provided the BOOST_FOREACH macro, and then by 2010 the standard committee finally relented and allowed us to write</p>
+      <pre>
+        <code> for (int it : v) { 
+       printf("%d ", it);
+ }
+</code>
+      </pre>
+      <p>What took them so long? Well, you see, that "range based for loop" is only applicable to input iterators (that is, doesn't allow using any features of the more powerful categories), and adding a language construct that only works with one of the four related things is just bad design.</p>
+      <p>So why did they relent? Well, you see, 99% of iterator use is limited to the input iterator interface, so including anything else that would demand special considerations into the iterator category is just bad design.</p>
+      <p>Could Stepanov do the <strong>real</strong> Right Thing when designing C++ iterators in the nineties? Nope, to figure from the first principles what programmers use something for 99% of the time we need a mathematical model of programmers and their goals, and we do not have such a thing. So instead our Cathedral designers <a href="https://en.wikipedia.org/wiki/Streetlight_effect">search under streetlights</a> and their Right Things inevitably fail to do what humans want and instead deliver Consistent and Complete implementations of something no one cares about.</p>
+      <p>While Worse is Better on the other hand is all about delivering the simplest possible implementation first, then letting actual users add their patches that scratch their itches. Yes the result sucks consistency-wise, but at least it solves problems that humans care about.</p>
+    </div>
+  </body>
+</post>

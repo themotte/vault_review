@@ -1,0 +1,20 @@
+<post>
+  <author>bsbbtnh</author>
+  <date>2020-03-30T09:36:35Z</date>
+  <link>/r/TheMotte/comments/fr0hap/smallscale_question_sunday_for_the_week_of_march/flwqfrh/</link>
+  <title>Fractional Reserve Banking In a Nutshell</title>
+  <body>
+    <div class="md">
+      <blockquote>
+        <p>but they don't actually have to have money, they just make it come into existence.</p>
+      </blockquote>
+      <p>That's sort of how fractional reserve banking works. They hold reserves (usually 10%). If you deposit $100, they keep $10 and loan out $90. That $90 will be deposited somewhere. They'll keep $9 and loan out $81. And so on and so forth, until you have around $1,000. $100 will be held in reserves, while you'll have $900 in loans and $1,000 in obligations. </p>
+      <p>Banks do a lot of business throughout the day. If someone withdraws $100, they aren't going to scramble to call in loans to get their reserves back up, because someone might deposit money in a few hours. And it technically all balances out on a macro scale. </p>
+      <p>At the end of the day, they tally up their balance sheet, and if they fall below the 10% reserves, they turn to a bank with more than 10% and borrow money. The rate the fed sets is the amount of interest charged for this loan, called the overnight rate. On a macro scale, all the banks combined should balance out to 10% reserves.</p>
+      <p>In times like this, you may have lots of people pulling money out of the bank. That money sits under their mattress (or in their wallet). Now, no bank can meet their 10% reserve requirement. If they start calling in loans, cancelling lines of credit, selling assets/debts, etc, you end up with a banking crisis.</p>
+      <p>To avoid this, the Federal Reserve will occasionally loan them money. This money is typically only loaned out overnight and paid back in the morning. It would be impossible for a bank to loan that money out.</p>
+      <p>The 10% reserve requirement is still technically there. It's just that they can borrow the money (for free) in order to meet this. But the fed rate can go up. So if banks loan out unlimited money, they'd end up at a point where the rate going up would destroy them. And having less reserves means they'd be in danger of a run on their bank.</p>
+      <p>The primary motivation here is for banks to not start closing lines of credit, credit cards, etc, because they are below their 10% reserve requirement.</p>
+    </div>
+  </body>
+</post>

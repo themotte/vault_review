@@ -1,0 +1,24 @@
+<post>
+  <author>hmmuhh</author>
+  <date>2019-12-25T14:07:01Z</date>
+  <link>/r/TheMotte/comments/eeg1xx/culture_war_roundup_for_the_week_of_december_23/fc08dvu/</link>
+  <title>Issues with First Past the Post (FPTP) - Queue CGP Grey</title>
+  <body>
+    <div class="md">
+      <p>
+        <a href="https://en.wikipedia.org/wiki/Wasted_vote">FPTP generally hurts any voting blocs whose votes tend to be "wasted" by deviating from the 51% in 51% formula</a>.</p>
+      <p>You only need 26% of the population to win a two party FPTP election: 51% of the seats, and 51% of the vote per seat. More parties makes this worse, since then you could win with a theoretical minimum of 34%/26%/21%/etc of the vote per seat for 3/4/5/etc parties, for a total of 17/14/11/etc% of the population represented.</p>
+      <p>The 5% lizardman bloc is hurt by FPTP because its votes are wasted in seats that weren't necessary to win, but the opposite case is also hurt by wasting its votes when they weren't needed to win a seat: if you control 100% of 5% of the seats, 49% of your votes were wasted electing a candidate who would've won anyway. Optimal political power comes from being part of that 51% in 51%. </p>
+      <p>FPTP essentially arbitrarily punishes you for being part of a voting bloc that is too spread out <em>or</em> too densely clustered in a geographical area. However, I think it punishes clustering more than being spread out, because in practice political parties often can't accurately predict exactly <em>which</em> 51% of seats will be the deciding seats, and so won't be able to correctly value a voting bloc based on the exact seats it occupies, and will give more concessions to blocs that spread beyond 51% of seats because they increase the probability of winning given this imperfect knowledge. On the other hand, a combination of blocs that wastes its votes within seats by electing candidates with more than 51% of the vote is really easy to spot, so they aren't given any extra political influence by parties for doing this.</p>
+      <p>What's sinister about FPTP is that, because political parties are reactive to these voting bloc compositions, we often don't get to directly see these power disparities when the election rolls around, and mistakenly assume from nearly-even results that there aren't any issues with representation. </p>
+      <p>For example:</p>
+      <p>Assume a 2-party FPTP system with 3 seats. Suppose the seats have two voting blocs, neither content to be part of the same party, because of opposing goals:</p>
+      <ul>
+        <li>Bloc A has 100% of the voters of seat 1, and 49% of the voters in seats 2 and 3.</li>
+        <li>Bloc B has 51% of the voters in seats 2 and 3.</li>
+      </ul>
+      <p>A has almost twice as many voters as B, but its votes are more wasted than B's, so the two parties will try to curry B's favor instead and hope to gain more B voters to win over the other, completely ignoring A due to its electoral uselessness. By the time the election rolls around, both parties will have platforms catering only to B, and nothing will seem suspicious in the election itself - both parties will have nearly equal votes, assuming that the seat with all A's doesn't go all in for one of the two parties (and why would it? neither of them wants their votes, so neither will offer many concessions, so it won't have much of a reason to discriminate).</p>
+      <p>Hence in contemporary politics, when looking at election results, it may seem that the two parties in an FPTP system are competitive and have evenly apportioned blocs, but what's not easily visible is the relative strength of voter blocs and their inclusion within the parties, which would very likely be significantly different under proportional representation sytems.</p>
+    </div>
+  </body>
+</post>

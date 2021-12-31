@@ -1,0 +1,14 @@
+<post>
+  <author>GeriatricZergling</author>
+  <date>2021-04-20T18:01:55Z</date>
+  <link>/r/TheMotte/comments/mtuhyd/culture_war_roundup_for_the_week_of_april_19_2021/gv88t57/</link>
+  <title>"TL;DR - 98% O2 postmortem only means a) they did CPR well and b) there wasn't much CO poisoning."</title>
+  <body>
+    <div class="md">
+      <p>As a physiologist, this is basically correct.  Hemoglobin is just a dumb molecule which binds to any oxygen it can, and doesn't need any external information.  If you generate circulation and respiration, the blood will take up Oxygen.  This can be in your body when alive, dead, or in a test tube.  Cut yourself shaving and the exposed blood will oxygenate upon contact with air.</p>
+      <p>The relevance is carbon monoxide, which not only competes for the oxygen binding site, but binds VERY strongly, and more-or-less permanently.  That's how CO kills you - your blood can't carry O2 anymore because all the hemoglobin molecules are stuffed with CO they can't remove (in contrast to CO2, which is super easy to remove and dissolves naturally in water anyway).  Basically, you've ruined that hemoglobin molecule and need to make a new one.</p>
+      <p>If someone died of basically anything (asphyxia, cancer, decapitation, fed through a woodchipper), if you apply oxygen to their blood and stir it up (with CPR, a heart-lung machine, stirring &amp; aerating the wood-chipper pulp), it'll re-oxygenate.  But if someone died of CO poisoning, it won't, because even after death, that CO molecule will stay bound.</p>
+      <p>TL;DR - 98% O2 postmortem only means a) they did CPR well and b) there wasn't much CO poisoning.</p>
+    </div>
+  </body>
+</post>

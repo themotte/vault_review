@@ -1,0 +1,32 @@
+<post>
+  <author>PmMeClassicMemes</author>
+  <date>2020-12-08T21:08:16Z</date>
+  <link>/r/TheMotte/comments/k8bxy1/culture_war_roundup_for_the_week_of_december_07/gf3elte/</link>
+  <title>/u/PmMeClassicMemes P-hacks the 2011 Canadian Federal Elections</title>
+  <body>
+    <div class="md">
+      <p>Everything below is bullshit. If you believe it, you are a fool. The point of this as an exercise is to demonstrate that any sufficiently motivated analysis of Election results can find oddities. I have p-hacked by deliberately not informing you of any results which were not suspicious. Tagging <a href="/u/_jkf_">/u/_jkf_</a> , <a href="/u/honeypuppy">/u/honeypuppy</a> , <a href="/u/matt_512">/u/matt_512</a>, <a href="/u/village_optimist">u/village_optimist</a>, <a href="/u/eltargrim">/u/eltargrim</a></p>
+      <p>Edit : As an addendum, this took me, one person, approximately two hours of "investigation" to cobble together. Imagine what millions of partisans with twitter can do over the course of a month. </p>
+      <p>
+        <a href="https://www.elections.ca/content.aspx?section=res&amp;dir=rep/off/41gedata&amp;document=summary&amp;lang=e">Data Here</a>
+      </p>
+      <p>================P-Hack-Line =====================</p>
+      <p>The 2011 Canadian Federal Elections was deeply fradulent. At issue are the contrasted returns between Ontario and the rest of Canada, using Quebec as a control. It's quite clear that the Conservative party, in power at the time, compromised Elections Canada in order to ensure that they would win the valuable swing ridings in Ontario. </p>
+      <p>Firstly, let's set the context. The Conservative party was highly motivated to commit election fraud. Over the past few elections, in 2004, 2006, and 2008, the Conservative party hadn't be able to gain a majority in Parliament. They're flat out not competitive in one of the two largest provinces in Canada, Quebec, which is effectively a 'swing province' between the Liberals and the Parti Quebecois, historically speaking. In recent history, three times already the Canadian public had resisted giving the Conservative Party a majority government, so they decided to take matters into their own hands. </p>
+      <p>Elections Canada is the government body tasked with regulating elections everywhere throughout the country. It reports directly to Parliament, so by winning, a party can stop any investigation into any wrong doing committed by their apparatchiks in the bureau. </p>
+      <p>
+        <a href="https://en.wikipedia.org/wiki/2011_Canadian_federal_election_voter_suppression_scandal">In 2011, details of a voter suppression scandal emerged.</a>
+      </p>
+      <p>Essentially, a Conservative campaign office in Guelph had been used to make robocalls to voters, telling them their polling station had been changed at the last minute. It also sent obnoxious phone calls purporting to be from the Liberal Party of Canada out. 7760 people were called. The voters were contacted on the basis of internal conservative party polling - the voters called were ones who indicated they would be voting for someone else than the conservative candidate in their riding when the party had conducted polls with them in past. </p>
+      <p>Elections Canada, under the control of the Conservative party with a Parliamentary majority, dragged their feet on this. In order to settle it, private non-profits had to file suit in federal court. </p>
+      <p>Taking a look at the results of the election, it's clear that the Conservative party manipulated the results of Ontario. In Quebec, an average of 1.32% of ballots were rejected due to defects (incorrectly filled out, for example). In Ontario, that rate was nearly three times lower at .46% of ballots rejected. </p>
+      <p>In regression analysis, we can see that the population of a riding explains only 52% of the variation in the number of polling stations a riding has in Ontario. This by itself is suspect, the relationship should be much closer, because more people means more necessary polling stations to take votes. Unless you want to make it easier to insert perfectly completed ballots. Quebec's polling stations are explained only by 30% of the variation in population. Why would Elections Canada use such a different process in Ontario versus Quebec for deciding the necessary number of polling stations? Clearly there's partisan juking going on here. </p>
+      <p>Let's look at the rejected ballots by the eventual winner in each riding. Conservative Candidates in Ontario won ridings with 3% less rejected ballots compared to Liberal Candidates who won. Why do Conservative candidates win with the lowest percentage of rejected ballots? Because artificial ballots, perfectly filled out, were being stuffed. </p>
+      <p>The trend that more turnout tends to lead to more liberal results is true in Canada as it is in the United States. In Quebec, the number of electors in a riding is not predictive of how many ballots were defective. That's logical - there should be a consistent error rate. If 1% of ballots get rejected, that should hold true in ridings with 100 people and 1000 people. </p>
+      <p>In Ontario however, we can see that there is in fact a correlation, with a P-value of 1.0<sup>-11</sup>, HIGHLY SIGNIFICANT, between the number of electors in a riding and the rejection rate. </p>
+      <p>Lastly, there's a stunning three percent different in the proportion of variation explained in regression between the number of Electors versus the number of Valid Votes in Ontario, compared to the rest of Canada. Ontario comprises 106 of our 308 data points, suggesting that the regression for the whole of Canada is being brought down significantly by Ontario's rate as well. Why don't Electors predict Valid Votes as well in Ontario? Because the reported returns are fradulent. </p>
+      <p>There would be no reason to assume returns in other areas are fradulent. The Conservatives have the West locked up. The only place they needed to commit fraud to win was Ontario. Everyone knew what the swing ridings were ahead of time. </p>
+      <p>The above should make it obvious to everyone that the Conservative Party of Canada committed a massive, co-ordinated fraud in the 2011 Canadian Federal Election.</p>
+    </div>
+  </body>
+</post>
