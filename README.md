@@ -56,6 +56,10 @@ These categories are intentionally vague and kind of ill-defined. Look at the Mo
 
 If the post was deleted by the user while leaving their account active, make a `deleted` subdirectory in the block subdirectory, and move it in there. If the user deleted their account but not the post, or deleted their account and *all* posts, then (1) do the normal post edit things listed above, and (2) make an `anonymized` directory in the block subdirectory and move it in there. (The codebase doesn't support anonymous entries yet, so I'll just shove them off in a corner of the database until I've got that implemented.)
 
+## Notes
+
+Is there a note you want attached to the post permanently, in case someone later comes along to edit it? Add a <notes> block and write whatever you want in there.
+
 ## Golden Rule
 
 If you're not entirely sure what to do with a post, do it anyway. Everything submitted will be reviewed by me; I'd rather have your best guess at the right solution than anything else. If you *really* don't know what to do with it, move it into a folder named REVIEW_ME and I'll handle it.
