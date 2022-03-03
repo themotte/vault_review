@@ -1,9 +1,75 @@
 <post>
+  <note>Note sure if you want to keep the substack link at the top.</note>
   <author>aaronb50</author>
   <date>2021-03-31T23:21:12Z</date>
   <link>/r/TheMotte/comments/mhidjq/prison_sentences_are_too_long_three_frameworks/</link>
-  <title>Three frameworks for explaining why prison sentences are too long</title>
+  <title>Why Prison Sentences Are Too Long</title>
+  <category>
+    <li>civilization</li>
+    <li>moloch</li>
+  </category>
   <body>
-    <a href="https://www.reddit.com/r/TheMotte/comments/mhidjq/prison_sentences_are_too_long_three_frameworks/">https://www.reddit.com/r/TheMotte/comments/mhidjq/prison_sentences_are_too_long_three_frameworks/</a>
+   <div class="md">
+    <p>Note: this is from my Substack <a href="https://aaronbergman.substack.com/p/prison-sentences-are-too-long">here</a>. </p>
+        <h2>Intro</h2>
+    <p>There is no shortage of completely-justified anger at the U.S. criminal justice system. The list of grievances is long. Just off of the top of my head:</p>
+    <ol>
+      <li>Excessive force by police, especially for black people.</li>
+      <li>Excessive enforcement of petty or victimless crimes, especially for black people.</li>
+      <li>Under-enforcement of serious crimes or insufficient protection of the community, especially for poor or black communities.</li>
+      <li>Under-enforcement of white-collar crime. Check out <a href="https://www.npr.org/2017/07/30/535799735/corporate-bungling-and-political-scandal-abound-in-jesse-eisinger-s-new-book"><em>The Chickenshit Club</em></a><em>.</em></li>
+      <li>Cash bail.</li>
+      <li>Discrimination in sentencing and prosecution.</li>
+      <li>Poor general conditions in prison.</li>
+      <li>Solitary confinement.</li>
+    </ol>
+    <p>And this list took approximately zero time, cognitive effort, or research to generate. While the first two items have become particularly salient in the last few months and years, particularly following the killing of George Floyd, the other six and many more seem quite well-recognized, at least relative to other large social problems in America.</p>
+        <h2>Some problems are clear</h2>
+    <p>This is due to more than just the magnitude of these issues. Beyond that, they’re just so <em>clear</em>. For example…</p>
+    <p>Look into sentencing discrimination, and you’ll find <a href="https://scholar.google.com/scholar?start=10&amp;q=sentencing+discrimination&amp;hl=en&amp;as_sdt=0,21">dozens of papers</a> on the topic in legal, political science, economic, and sociological journals. While there are, of course, obscure academic debates about whether things like race are <em>directly</em>, <em>causally</em> responsible for the observed discrepancies (as opposed to race being “merely” a proxy for a million other risk factors for incarceration), a cursory glance at <a href="https://en.wikipedia.org/wiki/Sentencing_disparity">Wikipedia</a> tells you that sentencing disparities are not some urban legend.</p>
+    <p>You’ll find nuanced reports on the disparate impacts of the <a href="https://www.brookings.edu/blog/fixgov/2020/08/28/did-the-1994-crime-bill-cause-mass-incarceration/">1994 crime bill </a>(think crack vs. powder cocaine) by liberal think tanks. Look at the “other side,” and you’ll find events with names like “<a href="https://www.aei.org/events/prison-break-why-conservatives-turned-against-mass-incarceration/">Prison break: Why conservatives turned against mass incarceration</a>.” Look some more, and you’ll find pages like <a href="https://www.sentencingproject.org/publications/un-report-on-racial-disparities/">this one</a> with mountains of statistics on racial sentencing discrimination and enough footnotes to create a dissertation bibliography.</p>
+    <p>Even when these problems don’t emerge unambiguously from the data, they often feel intuitively, qualitatively real and wrong. No amount of data can say whether it is wrong that <a href="https://www.afsc.org/resource/solitary-confinement-facts#:%7E:text=Q%3A%20How%20many%20people%20are,the%20Bureau%20of%20Justice%20Statistics.">over 80,000 people</a> are currently in solitary confinement in the U.S., but the sheer cruelty of the practice is impossible to overlook.</p>
+        <h4>A natural comparison</h4>
+    <p>The common theme is this: for many issues, including the eight on my list, there is a natural, intuitive “standard” or setpoint against which we can compare reality. For instance, most people probably think that in a just world, people convicted of the same crimes would tend to get the same sentences.</p>
+    <p>Likewise, it isn’t hard - in principle - to compare the <a href="https://newrepublic.com/article/158582/theres-never-better-time-white-collar-criminal">reality of white collar crime prosecution</a> to some ideal standard in which crimes are prosecuted in proportion to their degree of social importance rather the status of their perpetrator.</p>
+    <p>Of course, this comes in degrees. There is no distinct, obviously appropriate level for prison comfort and amenities, but we can be sure that it falls somewhere between “Auschwitz” and “five star hotel.”</p>
+        <h2>Sentences are too long</h2>
+    <p>Between different crimes, it seems clear that, all else equal, crimes that are more egregious or more indicative of a person’s future threat to others should carry longer sentences. Tell me that first degree murder should be met with a 30 year sentence, and I’ll tell you that bicycle thieves should face much less than that.</p>
+    <p>Let’s set aside questions of whether prison is an appropriate form of punishment or deterrence at all. When deciding an appropriate sentence for some person or crime, we’re likely to generate a number solely by comparing it to other crimes and sentences. For instance, five years might “sound right” for robbery if murder gets 30 years and cocaine sale gets two.</p>
+    <p>But, why have we decided that these lengths are even the right order of magnitude? <strong>Why does assault get you five years in prison instead of five months, five weeks, or five decades for that matter?</strong></p>
+    <p><a href="https://preview.redd.it/2bsn8hvo5gq61.png?width=380&amp;format=png&amp;auto=webp&amp;s=97a4d1c1a3270785ff6f4bf45e052567d022d387">https://preview.redd.it/2bsn8hvo5gq61.png?width=380&amp;format=png&amp;auto=webp&amp;s=97a4d1c1a3270785ff6f4bf45e052567d022d387</a></p>
+        <h2>Sentences are too long</h2>
+    <p>A longtime podcast addict, I recall listening to season 2 of the popular show <a href="https://en.wikipedia.org/wiki/Serial_(podcast">Serial</a>#Season<em>3</em>(2018)_2). I remember the host spending some time at a very typical courthouse in Cleveland and noting that cops, judges, and prosecutors all seemed to conceptualize the largely poor and black defendants as fundamentally <em>different</em> than them.</p>
+    <p>Maybe this sounds like woke or progressive nonsense, but I think it’s largely correct. To illustrate, consider the treatment of the dozens of very wealthy, mostly white parents (including some A- list celebrities) charged in the <a href="https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal">2019 college admissions bribery scandal</a>, who used their immense wealth to bribe their children’s way into elite colleges and very nearly succeeded. If any type of defendant was going to seem fully human but <em>not</em> particularly sympathetic, it would be them.</p>
+    <p>As described by <a href="https://en.wikipedia.org/wiki/2019_college_admissions_bribery_scandal">Wikipedia</a> and <a href="https://www.netflix.com/watch/81130691?trackId=13752289&amp;tctx=0%2C0%2C91de3959d0b7a75c2dbbb1e8f64f54068844ffd0%3A2ad270616b7539ab30f30a585ade9f88c252137f%2C91de3959d0b7a75c2dbbb1e8f64f54068844ffd0%3A2ad270616b7539ab30f30a585ade9f88c252137f%2C%2C">this recent Netflix documentary</a>, those who pleaded guilty got anything from some community service and a (very affordable) fine to nine months in prison (the single longest sentence). Among those already sentenced, the median punishment seems to have been about two months locked up.</p>
+    <p>Now, compare this to that table of the median and mean prison sentences by crime category above. Seems awfully lenient, right? I too feel the retributive intuition that this type of white collar criminal should get a taste of what things are like for the disproportionately poor and black people convicted of shoplifting, drug possession, or assault, but that is taking things in the wrong direction!</p>
+    <p>We shouldn’t make rich white people’s sentences longer—we should use the treatment of rich white people as an improved (though by no means necessarily ideal) standard by which to sentence <em>everyone</em>.</p>
+        <h2>Being an armchair psychologist</h2>
+    <p>Clearly, prosecutors, judges, and the criminal justice system at large decided that ~2 months in jail was an appropriate degree of punishment and deterrence for this type of crime. Why was this the case? I’m sure there are many different explanations, but the completely unqualified armchair psychologist inside me imagines the following.</p>
+    <p>Like the admissions scandal defendants, Prosecutors and judges are by and large <a href="https://www.npr.org/sections/itsallpolitics/2015/07/08/420913118/does-it-matter-that-95-of-elected-prosecutors-are-white">white</a> and affluent. The former have a median salary of about <a href="https://www.comparably.com/salaries/salaries-for-criminal-prosecutor">$80,000</a>, and virtually all prosecutors (I assume) earned a professional degree in law. More, both the judges and prosecutors involved in this case were almost certainly more experienced, better paid, and generally higher status than is typical.</p>
+    <p>A judge sentencing one of these defendants would have seen someone fundamentally similar to themselves—someone who also grew up in an affluent neighborhood, went to an elite college, and shares a broad set of professional class norms and values. And so this judge would have really, truly considered how bad it is to go to prison for two months. I imagine that the judge would have run a simulated of two months in prison for themselves, and concluded that this was the appropriate amount of “badness” as means of deterrence and retribution.</p>
+    <p><strong>Normalize it.</strong></p>
+    <p>This is a good thing! If this story is correct, it should be what happens during law creation, charging and sentencing all the time!</p>
+    <p>In case you don’t share this intuition, I encourage you to consider what you, yes you, would do to avoid going to prison for a week, or a month, or a year, or a decade. The police come tomorrow and take you away. Really, imagine it. Not just the literal time in prison, but also all the secondary social and professional effects as well.</p>
+        <h2>Three Frameworks</h2>
+    <p>Consider Rawls’ “<a href="https://fs.blog/2017/10/veil-ignorance/#:%7E:text=The%20Veil%20of%20Ignorance%2C%20a,disadvantages%2C%20or%20even%20their%20personality.">veil of ignorance.</a>” What would crime sentences look like if created by someone who did not know which of the 300+ million Americans he or she would become?</p>
+    <p><a href="https://preview.redd.it/0oh8k7es5gq61.png?width=800&amp;format=png&amp;auto=webp&amp;s=a0589b7e4d1cc639e5d96ef465a130fbc372711e">https://preview.redd.it/0oh8k7es5gq61.png?width=800&amp;format=png&amp;auto=webp&amp;s=a0589b7e4d1cc639e5d96ef465a130fbc372711e</a></p>
+    <p>In an economic framework, what is the point at which the marginal cost of an extra day in prison (as internalized by the prisoner, his family, his community, the taxpayers, etc.) matches its marginal benefit (through deterrence, preventing him from reoffending, and the psychological comfort offered to victims and other citizens)?</p>
+    <p><a href="https://preview.redd.it/j31ijp736gq61.png?width=259&amp;format=png&amp;auto=webp&amp;s=62145ea8d684d6991f3bebfa205145fd1849935b">https://preview.redd.it/j31ijp736gq61.png?width=259&amp;format=png&amp;auto=webp&amp;s=62145ea8d684d6991f3bebfa205145fd1849935b</a></p>
+    <p>So, the three alternative frameworks for determining sentence length are</p>
+    <ol>
+      <li>Rawlsian veil of ignorance</li>
+      <li>Economic marginal cost=marginal benefit analysis</li>
+      <li>Empathetic introspection, reflecting on what it <em>really means</em> to go to prison for a certain amount of time.</li>
+    </ol>
+    <p>I suspect that all these frameworks would produce a set of quite similar sentences, and my central claim is that these sentences would almost universally be much, much shorter that they currently are.</p>
+    <p>Yes, there are a few crimes that might so strongly indicate that a person is likely to continue causing harm to others that a long prison sentence is warranted for the sole purpose of keeping him or her away from society. In the vast majority of cases, though, incarceration seems to be about deterrence and retribution, not direct crime prevention.</p>
+    <p>Look at that table of average sentence lengths again. For now, let’s exclude crimes like murder and rape that are so detested by our society that it may be difficult to empathize with the perpetrator. 26 months for burglary and drug trafficking, 2.5 years for assault, and nearly 5 for robbery?</p>
+    <p>I bet all three frameworks would generate something like three months for burglary and trafficking, six months for assault, and one year for robbery. Maybe more, but also maybe much less. The armchair psychologist inside me can only do so much.</p>
+        <h3>A free lunch?</h3>
+    <p>I was about to write one of those “there might be trade-offs but that’s ok” paragraphs, when I remembered a bit of contrarian counter-evidence. As it turns out, there is good evidence that deterrence <a href="https://www.ojp.gov/pdffiles1/nij/247350.pdf">depends vastly more</a> on the likelihood of being caught for a crime than on sentence length once convicted.</p>
+    <p>Presumably there is <em>some</em> point at which sentences are so lenient that they stop deterring crime, but at the current margin it looks like near-universal sentence decreases could be a free (or steeply discounted) lunch for society!</p>
+    <p>In the end, whether you’re an ivory tower Rawlsian philosopher, neoclassical economic shill, or progressive bleeding heart empathizer, following one of these three frameworks would likely produce a much more humane society at strikingly low social cost.</p>
+   </div>
   </body>
 </post>

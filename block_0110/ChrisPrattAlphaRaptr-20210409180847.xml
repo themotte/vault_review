@@ -2,12 +2,15 @@
   <author>ChrisPrattAlphaRaptr</author>
   <date>2021-04-09T18:08:47Z</date>
   <link>/r/TheMotte/comments/mke4zb/culture_war_roundup_for_the_week_of_april_05_2021/gtyh4oz/</link>
-  <title>"I can't make very firm predictions because nobody has really researched the best way to encourage viruses to make the leap to humans, but I'd probably try to make really high titer virus in the animal and pump it into human lungs."</title>
+  <title>The Best Way to Encourage Viruses to Make the Leap to Humans</title>
+  <category>
+    <li>knowledge</li>
+  </category>
+  <context>
+    <p>Given the time scale in which generations of viruses propagate themselves, it won't be too difficult to breed a strain of coronavirus extremely adapt at infecting people by passing them through different human tissues.</p>
+  </context>
   <body>
     <div class="md">
-      <blockquote>
-        <p>Given the time scale in which generations of viruses propagate themselves, it won't be too difficult to breed a strain of coronavirus extremely adapt at infecting people by passing them through different human tissues.</p>
-      </blockquote>
       <p>Usually the opposite happens, and you end up with an <a href="https://en.wikipedia.org/wiki/Attenuated_vaccine#Development">attenuated strain</a>. Infecting a human host is enormously complex relative to infecting an immortalized cell line with no immune system (a bit of a lie because most cell lines will still produce interferons, but still). The adaptations the virus gained in the arms race with our immune system get jettisoned in favor of just tearing through the readily available host cells in culture.</p>
       <p>Plus the cell line most commonly used to propagate viruses is from an <a href="https://en.wikipedia.org/wiki/Vero_cell">African Green Monkey</a>. And people have actually <a href="https://www.news-medical.net/news/20210126/SARS-CoV-2-rapidly-adapts-to-Vero-E6-cell-culture-propagation.aspx">seen this process play out</a> while trying to propagate their lab strains:</p>
       <blockquote>
