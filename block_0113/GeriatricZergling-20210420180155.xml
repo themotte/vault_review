@@ -1,8 +1,12 @@
 <post>
+  <note>Another missing context.  Also hard to categorize.</note>
   <author>GeriatricZergling</author>
   <date>2021-04-20T18:01:55Z</date>
   <link>/r/TheMotte/comments/mtuhyd/culture_war_roundup_for_the_week_of_april_19_2021/gv88t57/</link>
-  <title>"TL;DR - 98% O2 postmortem only means a) they did CPR well and b) there wasn't much CO poisoning."</title>
+  <title>Hemoglobin Is Just a Dumb Molecule</title>
+  <category>
+    <li>flux</li>
+  </category>
   <body>
     <div class="md">
       <p>As a physiologist, this is basically correct.  Hemoglobin is just a dumb molecule which binds to any oxygen it can, and doesn't need any external information.  If you generate circulation and respiration, the blood will take up Oxygen.  This can be in your body when alive, dead, or in a test tube.  Cut yourself shaving and the exposed blood will oxygenate upon contact with air.</p>

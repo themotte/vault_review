@@ -1,16 +1,20 @@
 <post>
+  <note>Added another layer of quotes into the context.  This post also relies heavily on spoiler text, and I'm not sure how much a pain it'd be to add that to the vault CSS.  Also, not sure how accurate 'author' is, here, given the spoiler.</note>
   <author>mirror_truth</author>
   <date>2021-04-14T04:04:37Z</date>
   <link>/r/TheMotte/comments/mp83aj/culture_war_roundup_for_the_week_of_april_12_2021/guga2er/</link>
-  <title>"It isn't necessary for any machine to fully model the world to understand it."</title>
+  <title>It Isn't Necessary for Any Machine to Fully Model the World to Understand It</title>
+  <category>
+    <li>knowledge</li>
+  </category>
+  <context>
+    <blockquote>I also believe that in the long run all human traits and behaviors can be modeled just as a programmer writes and debugs software.</blockquote>
+    <p>I don't mean to gloss the rest of your post, but I have to ask: are you a programmer? My experience with computers and code has convinced me utterly that machines can never fully model the living world, that Deep AI will never exist, and that computers can never replace human judgment. I would draw a parallel and say, by the same token, that utopia is impossible and a never-ending society of deep happiness and wealth will never be engineered.  </p>
+    <p>If I had to put the case briefly, I would say: biological living things don't operate predictably like machines and can't be controlled. There will always be black swans. And if man is ever too contented he will find himself discontented -- say, for the same reasons Dostoevsky's Underground Man suggests.</p>
+  </context>
   <body>
     <div class="md">
-      <blockquote>
-        <p>I don't mean to gloss the rest of your post, but I have to ask: are you a programmer? My experience with computers and code has convinced me utterly that machines can never fully model the living world, that Deep AI will never exist, and that computers can never replace human judgment. I would draw a parallel and say, by the same token, that utopia is impossible and a never-ending society of deep happiness and wealth will never be engineered.  </p>
-        <p>If I had to put the case briefly, I would say: biological living things don't operate predictably like machines and can't be controlled. There will always be black swans. And if man is ever too contented he will find himself discontented -- say, for the same reasons Dostoevsky's Underground Man suggests.</p>
-      </blockquote>
-      <p>
-        <strong>I disagree, since it isn't necessary for any machine to fully model the world to understand it.</strong> And if you think about it, to do so would be a superhuman feat. A machine will never fully model our world because we can never fully model the world ourselves, but machines can understand and predict a great deal of the world. For example, machines can accurately predict weather patterns in the coming weeks and months based on historical data, they can understand how atoms hold together to form molecules and then build an object that never existed before by following instructions dictated by those models. And so on and so forth.</p>
+      <p><strong>I disagree, since it isn't necessary for any machine to fully model the world to understand it.</strong> And if you think about it, to do so would be a superhuman feat. A machine will never fully model our world because we can never fully model the world ourselves, but machines can understand and predict a great deal of the world. For example, machines can accurately predict weather patterns in the coming weeks and months based on historical data, they can understand how atoms hold together to form molecules and then build an object that never existed before by following instructions dictated by those models. And so on and so forth.</p>
       <p>To understand this, consider that there are many things you understand perfectly well that are not represented explicitly in your brain -- for example, which side of an object is up. You don't have to actively learn what 'up' is every time you see something; you simply know it implicitly by virtue of holding certain assumptions about the universe (that objects fall down due to gravity). Similarly, machines will be able to make predictions simply by modeling the natural principles governing the system they are examining (say what happens when I put an egg in hot water), without ever having to explicitly represent those natural principles -- i.e., we don't need Deep AI for computers to be intelligent or have common sense.</p>
       <p>
         <span class="md-spoiler-text">I was bored and so I fed your post into GPT-3 to generate this reply, only the bolded part was written by me. Take the response however you want, it's not particularly insightful, but I thought it was interesting enough to post it.</span>

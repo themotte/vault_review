@@ -1,13 +1,17 @@
 <post>
+  <note>Since this has since become common knowledge, may want to add time or "early" into title.  Not confident in category.</note>
   <author>ChrisPrattAlphaRaptr</author>
   <date>2021-03-18T19:24:34Z</date>
   <link>/r/TheMotte/comments/m5eawi/culture_war_roundup_for_the_week_of_march_15_2021/greccg5/</link>
-  <title>The risks and uncertainties that persist around COVID vaccination and future viral mutations</title>
+  <title>COVID Vaccination and Future Viral Mutations</title>
+  <category>
+    <li>flux</li>
+  </category>
+  <context>
+    <p>Is the Covid vaccine going to be an ongoing thing? I've heard takes that amount to multiple strains will make this something akin to the flu shot, but have no concept of how grounded those theories are.</p>
+  </context>
   <body>
     <div class="md">
-      <blockquote>
-        <p>Is the Covid vaccine going to be an ongoing thing? I've heard takes that amount to multiple strains will make this something akin to the flu shot, but have no concept of how grounded those theories are.</p>
-      </blockquote>
       <p>We don't know yet, and anybody who tells you differently is speculating. We can draw parallels to other viruses, but there are a lot of unknowns that will determine what ultimately happens: How rapidly people get vaccinated, how quickly the virus mutates, how much wiggle room there is for the virus to mutate it's receptor binding domain (RBD) to change serotypes while maintaining/enhancing it's affinity for it's receptor, etc. There's also a few lower probability possibilities like immunity from the vaccine being short term or a viral strain emerging that is more contagious but much less pathogenic, a la seasonal coronaviruses.</p>
       <p>There are multiple strains that have already emerged, one of which is particularly concerning as our current vaccines are less effective (by some indeterminate amount) at protecting people from infection by it. Low vaccine uptake in the population optimizes for the emergence of new vaccine-resistant strains in the population.</p>
       <p>Influenza is not a great virus to compare covid to in general because the mutation rate (what we call antigenic drift), while important, is less important than the complete swapping of serotypes (antigenic shift). When people warn of a 'really bad flu season' it's generally due to antigenic shifts to a serotype that we haven't seen for a long time and don't have pre-existing immunity to. This happens because waterfowl and swine are massive reservoirs of influenza and all the serotypes mix around before recombining and jumping back to humans. This is what people were scared of when they culled the <a href="https://www.hsi.org/news-media/1-million-mink-culled-on-dutch-fur-farms-as-covid-19-infections-spread/">mink in Europe</a>.</p>

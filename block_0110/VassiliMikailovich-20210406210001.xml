@@ -1,13 +1,18 @@
 <post>
+  <note>Removed subreddit link.</note>
   <author>VassiliMikailovich</author>
   <date>2021-04-06T21:00:01Z</date>
   <link>/r/TheMotte/comments/mke4zb/culture_war_roundup_for_the_week_of_april_05_2021/gtm4pc3/</link>
-  <title>The international chip shortange and lumber price records--rather earlier than corporate news media caught on</title>
+  <title>International Chip Shortage and Record Lumber Prices</title>
+  <category>
+    <li>economics</li>
+  </category>
+  <context>
+    <p>Dude, look at your own graph. Venezuela was averaging 25-30% inflation even before Maduro. It didn’t come out of nowhere. The US is averaging under 2% inflation so we’re not getting hyperinflation.</p>
+    <p>As for recessions, they come about with some regularity so saying that a recession will happen at some point is not prescience.</p>
+  </context>
   <body>
     <div class="md">
-      <blockquote>
-        <p>Dude, look at your own graph. Venezuela was averaging 25-30% inflation even before Maduro.</p>
-      </blockquote>
       <p>And after Maduro it experienced inflation orders of magnitude higher than that. The point is that inflation isn't something that gradually ticks up, it goes from 0 to 100 in a cascade. By the time inflation is high enough to be considered a problem it's too late to stop with anything short of drastic measures.</p>
       <p>If you prefer a different example, the US in the late 70s had an average consumer inflation rate of just under 10%, and that was only beaten by Volcker jacking rates up to double digits and crashing the economy. If you told someone in the early 60s that in just over a decade there would be stagflation they'd have called you crazy, especially since the economists of the time considered stagflation to literally be impossible.</p>
       <blockquote>
@@ -20,14 +25,12 @@
       <p>Now look at producer prices. Copper and other industrial metals are approaching record levels only reached during the peak of the last commodity supercycle. There's an international chip shortage driving up the price of electronics. Lumber is already breaking records that were set during the peak of the last housing bubble.</p>
       <p>Maybe the US won't get hyperinflation, but the Fed has exactly two options in terms of rates and neither are favourable:</p>
       <ul>
-        <li>
-          <p>They can let rates rise to prevent inflation. This would crash the entire market, it would cause overleveraged positions to explode, it would send countless mortgage holders into bankruptcy and it would also dramatically increase the amount of tax dollars going towards debt servicing. Basically every major player would lose big so I'm pretty skeptical Powell will do this except as an absolute last resort</p>
+        <li>They can let rates rise to prevent inflation. This would crash the entire market, it would cause overleveraged positions to explode, it would send countless mortgage holders into bankruptcy and it would also dramatically increase the amount of tax dollars going towards debt servicing. Basically every major player would lose big so I'm pretty skeptical Powell will do this except as an absolute last resort
         </li>
-        <li>
-          <p>Or they can implement Yield Curve Control and go back to buying bonds and pushing rates down, in which case high inflation at a minimum is guaranteed. Producer prices will be passed down and we'll start to see dislocations when major producers suddenly can't get the steel, silver or lumber they need for basic operations at any reasonable price. Real resource scarcity will make itself known.</p>
+        <li>Or they can implement Yield Curve Control and go back to buying bonds and pushing rates down, in which case high inflation at a minimum is guaranteed. Producer prices will be passed down and we'll start to see dislocations when major producers suddenly can't get the steel, silver or lumber they need for basic operations at any reasonable price. Real resource scarcity will make itself known.
         </li>
       </ul>
-      <p>Incidentally I can't speak for the American CPI but the Canadian CPI has been completely worthless for the past year. The increase in the price of basic goods Canadians actually need like food, rent and energy has been counteracted by cheap flights to cheap hotels in towns we're legally prohibited from visiting. The reality has gotten so obvious that even <a href="/r/canada">/r/canada</a> posters (hardly a sub of Austrian economists or Ancaps) can recognize the correlation between artificially low rates and our country's enormous housing bubble.</p>
+      <p>Incidentally I can't speak for the American CPI but the Canadian CPI has been completely worthless for the past year. The increase in the price of basic goods Canadians actually need like food, rent and energy has been counteracted by cheap flights to cheap hotels in towns we're legally prohibited from visiting. The reality has gotten so obvious that even /r/canada posters (hardly a sub of Austrian economists or Ancaps) can recognize the correlation between artificially low rates and our country's enormous housing bubble.</p>
     </div>
   </body>
 </post>
