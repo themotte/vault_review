@@ -2,7 +2,15 @@
   <author>ZorbaTHut</author>
   <date>2021-02-15T20:18:28Z</date>
   <link>/r/TheMotte/comments/lk8abe/culture_war_roundup_for_the_week_of_february_15/gnki8kp/</link>
-  <title>On the capacity of extant automobile AI to peg you for a jaywalker in advance</title>
+  <title>On the Capacity of Extant Automobile AI</title>
+  <category>
+    <li>knowledge</li>
+    <li>flux</li>
+  </category>
+  <context>
+    <blockquote>For what it's worth, trolley problems also aren't useful for self-driving cars; there's virtually no scenario where a car is unable to stop safely but still has enough control to make a choice about who it should hit. Nobody's spending time on this problem because the effort is better spent on making sure they don't hit anyone.</blockquote>
+    <p>This doesn't make sense to me - car is traveling at 50mph, child runs into road 50 feet ahead to chase ball. Full brake power will not stop the vehicle in time. Hit the child or swerve into the oncoming lane and hit a semi truck? Hit the child or swerve into the treeline at the side of the road? </p>
+  </context>
   <body>
     <div class="md">
       <p>So, I think you're underestimating the crazy stuff self-driving cars can do, which I <em>totally understand</em> because almost everyone does. I worked at a self-driving car company for a bit and here's why this is easier than you think.</p>

@@ -2,7 +2,10 @@
   <author>ZorbaTHut</author>
   <date>2021-03-05T01:33:06Z</date>
   <link>/r/TheMotte/comments/lv2rb7/culture_war_roundup_for_the_week_of_march_01_2021/gpq2qt7/</link>
-  <title>The concept of "race" looks a lot like the results of a clustering algorithm</title>
+  <title>"Race" Looks a Lot Like the Results of a Clustering Algorithm</title>
+  <category>
+    <li>culture</li>
+  </category>
   <body>
     <div class="md">
       <p>This always reminds me of an experiment I did a while back. I was working at Google at the time, during what was in retrospect the (still rather anemic) peak of English Orkut, and I convinced the Orkut developers to give me an anonymized dump of interests by user. I took this and massaged the data a bit, then fed it into a clustering algorithm, on the assumption that I might get usefully correlated interests in a way that could be used to find dates.</p>
